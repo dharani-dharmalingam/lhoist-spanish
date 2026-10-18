@@ -1,0 +1,240 @@
+/**
+ * Spanish for the English text written in code (src/content/site.ts), as
+ * opposed to the text that comes from site-content.json (see es.json).
+ *
+ * LABELS_ES: exact English string -> Spanish.
+ * TEMPLATES_ES: English template with {placeholders} -> Spanish template.
+ * A string missing here simply shows in English.
+ */
+export const LABELS_ES: Record<string, string> = {
+  // generic
+  Yes: "Sí",
+  No: "No",
+  Other: "Otro",
+  Benefits: "Beneficios",
+  "Medical Plans": "Planes médicos",
+  Premiums: "Primas",
+  "Plan Notes": "Notas del plan",
+  "Plan Details": "Detalles del plan",
+  "Plan at a glance": "Resumen del plan",
+  "Good to know": "Conviene saber",
+
+  // tables
+  "Coverage Tier": "Nivel de cobertura",
+  "Biweekly Contribution": "Contribución quincenal",
+  "Covered Services": "Servicios cubiertos",
+  Service: "Servicio",
+  "Premiums - Biweekly contributions": "Primas - Contribuciones quincenales",
+  Frequency: "Frecuencia",
+  "Benefit Frequency": "Frecuencia de los beneficios",
+  "Coverage Detail": "Detalle de la cobertura",
+  "In-Network": "Dentro de la red",
+  "Out-of-Network": "Fuera de la red",
+  "Your Benefits at a Glance": "Sus beneficios de un vistazo",
+  Benefit: "Beneficio",
+  Plan: "Plan",
+  Carrier: "Aseguradora",
+  Medical: "Médico",
+  Dental: "Dental",
+  Vision: "Visión",
+  Tier: "Nivel",
+  Coverage: "Cobertura",
+  Feature: "Característica",
+  Detail: "Detalle",
+  Limit: "Límite",
+  Amount: "Monto",
+  Rates: "Tarifas",
+  Information: "Información",
+
+  // medical plan pages
+  "* After deductible": "* Después del deducible",
+  "Plan type": "Tipo de plan",
+  "Plan Type": "Tipo de plan",
+  Network: "Red",
+  "Out-of-network coverage": "Cobertura fuera de la red",
+  "Out-of-Network Coverage": "Cobertura fuera de la red",
+  "HSA eligible": "Elegible para HSA",
+  "HSA Eligible": "Elegible para HSA",
+  "FSA Eligible": "Elegible para FSA",
+  "Dependent Care Eligible": "Elegible para cuidado de dependientes",
+  "Limited Purpose FSA only": "Solo FSA de propósito limitado",
+  "Yes — Healthcare FSA": "Sí — FSA de atención médica",
+  "Employer account contribution": "Aportación del empleador a la cuenta",
+  "Services included": "Servicios incluidos",
+  "Allowance notes": "Notas sobre las asignaciones",
+  "Service frequencies": "Frecuencia de los servicios",
+  "Medical Plan Summary": "Resumen del plan médico",
+  "Deductible - Out of Pocket & Coinsurance": "Deducible - Gastos de bolsillo y coseguro",
+  "** Blue Distinction Center Providers = 10% Coinsurance after deductible":
+    "** Proveedores de Blue Distinction Center = 10% de coseguro después del deducible",
+  "Preventive In-Network": "Preventivos dentro de la red",
+  "Preventive Out-of-Network": "Preventivos fuera de la red",
+  "Non-Preventive In-Network": "No preventivos dentro de la red",
+  "Non-Preventive Out-of-Network": "No preventivos fuera de la red",
+  "Retail Rx (30-Day Supply)": "Rx minorista (suministro de 30 días)",
+  "Mail Order Rx (90-Day Supply)": "Rx por pedido por correo (suministro de 90 días)",
+  "Home delivery pharmacy": "Farmacia con entrega a domicilio",
+  Pharmacy: "Farmacia",
+  Contact: "Contacto",
+  "How to start home delivery": "Cómo comenzar la entrega a domicilio",
+  "Member Resources": "Recursos para miembros",
+  Cost: "Costo",
+  "How to access": "Cómo acceder",
+  Surcharges: "Recargos",
+  "How to avoid it": "Cómo evitarlo",
+  Deadline: "Fecha límite",
+  "Complete the requirements to earn the Wellness Incentive of $600 per year.":
+    "Cumpla los requisitos para ganar el incentivo de bienestar de $600 al año.",
+
+  // spending accounts
+  "Spending Accounts": "Cuentas de gastos",
+  "Health Savings Account (HSA)": "Cuenta de Ahorros para la Salud (HSA)",
+  "HSA Contribution Limits": "Límites de contribución a la HSA",
+  "Annual Limit": "Límite anual",
+  "Employer Contribution": "Aportación del empleador",
+  "Annual Amount": "Monto anual",
+  "Up to the annual IRS maximum": "Hasta el máximo anual del IRS",
+  "Your Account Options": "Sus opciones de cuenta",
+  "Each account offers unique tax advantages — choose the one that fits the expenses you expect this year.":
+    "Cada cuenta ofrece ventajas fiscales únicas: elija la que se ajuste a los gastos que espera tener este año.",
+  "you and Lhoist North America": "usted y Lhoist North America",
+  "employee pre-tax": "el empleado, antes de impuestos",
+
+  // eligibility and enrollment
+  "Who Is Eligible": "Quién es elegible",
+  "When Coverage Begins": "Cuándo comienza la cobertura",
+  "Eligible Dependents": "Dependientes elegibles",
+  "Qualifying Life Events": "Eventos de vida calificados",
+  Enrollment: "Inscripción",
+  "Enrollment details": "Detalles de la inscripción",
+  Platform: "Plataforma",
+  "Where to go": "Adónde ir",
+  When: "Cuándo",
+  "If you take no action": "Si no hace nada",
+  Support: "Soporte",
+  Steps: "Pasos",
+
+  // wellness and additional benefits
+  "Program Details": "Detalles del programa",
+  "Program Detail": "Detalle del programa",
+  Program: "Programa",
+  Incentive: "Incentivo",
+  "How to earn it": "Cómo ganarlo",
+  "Spouse requirement": "Requisito para el cónyuge",
+  Deadlines: "Fechas límite",
+  "How to submit": "Cómo enviarlo",
+  Confidentiality: "Confidencialidad",
+  "Reasonable accommodation": "Adaptaciones razonables",
+  "Wellness Incentive": "Incentivo de bienestar",
+  "Tobacco User Surcharge": "Recargo para usuarios de tabaco",
+  "Submission steps": "Pasos para el envío",
+  Activities: "Actividades",
+  "Additional Benefits": "Beneficios adicionales",
+  "BCBS Wellness Programs": "Programas de bienestar de BCBS",
+  Education: "Educación",
+  "Identity Protection": "Protección de identidad",
+  "Tobacco Cessation": "Programa para dejar el tabaco",
+  "Don't forget to complete the RealAge Test for 300 GO points.":
+    "No olvide completar la prueba RealAge para obtener 300 puntos GO.",
+  "GO Wellbeing, formerly known as Well onTarget, offers members an opportunity to be tobacco free by completing the Tobacco Cessation program.":
+    "GO Wellbeing, antes conocido como Well onTarget, ofrece a los miembros la oportunidad de dejar el tabaco al completar el programa para dejar de fumar.",
+  "Members can learn to quit tobacco products through innovative lessons. ":
+    "Los miembros pueden aprender a dejar los productos de tabaco mediante lecciones innovadoras. ",
+  "Livongo offers connected devices, personalized insights and expert coaching to help you manage diabetes and high blood pressure.":
+    "Livongo ofrece dispositivos conectados, información personalizada y asesoría de expertos para ayudarle a controlar la diabetes y la presión arterial alta.",
+  advocacy: "defensa del paciente",
+  telemedicine: "telemedicina",
+  program: "programa",
+  "drug assistance program": "programa de asistencia para medicamentos",
+  "virtual health platform": "plataforma de salud virtual",
+
+  // EAP
+  Provider: "Proveedor",
+  "Cost to you": "Costo para usted",
+  "Who is covered": "Quién está cubierto",
+  "Visits included": "Visitas incluidas",
+  Availability: "Disponibilidad",
+  Phone: "Teléfono",
+  Website: "Sitio web",
+  "Web login code": "Código de acceso web",
+  "Services Included": "Servicios incluidos",
+
+  // survivor benefits and income protection
+  Coverages: "Coberturas",
+  "Who Pays": "Quién paga",
+  "Benefits Payable": "Beneficios pagaderos",
+  "Maximum Benefit": "Beneficio máximo",
+  "EOI Required": "EOI requerida",
+  "Coverage Amount": "Monto de cobertura",
+  "How cost is calculated": "Cómo se calcula el costo",
+  "Who pays": "Quién paga",
+  Eligibility: "Elegibilidad",
+  "Income replaced": "Ingreso reemplazado",
+  "Maximum benefit": "Beneficio máximo",
+  "Elimination period": "Período de espera",
+  "Maximum benefit period": "Período máximo de beneficio",
+  Rate: "Tarifa",
+  "LTD Buy-Up Notes": "Notas del LTD Buy-Up",
+  "Basic LTD Notes": "Notas del LTD básico",
+
+  // retirement
+  "Plan name": "Nombre del plan",
+  "Record keeper": "Administrador de registros",
+  "Entry dates": "Fechas de ingreso",
+  "Employer match": "Aportación equivalente del empleador",
+  "Automatic enrollment": "Inscripción automática",
+  "Default contribution rate": "Tasa de contribución predeterminada",
+  "Auto enrollment starts": "Inicio de la inscripción automática",
+  "Auto escalation": "Aumento automático",
+  "Opting out": "Cómo darse de baja",
+  "Ways to contribute": "Formas de contribuir",
+  "Vesting applies to": "La adquisición de derechos aplica a",
+  Loans: "Préstamos",
+  "Hardship withdrawals": "Retiros por dificultad económica",
+  Rollovers: "Traspasos",
+  "Investment guidance": "Orientación sobre inversiones",
+  "Contribution Limits": "Límites de contribución",
+  "Vesting Schedule": "Calendario de adquisición de derechos",
+  "Years of Service": "Años de servicio",
+  "Percent Vested": "Porcentaje con derechos adquiridos",
+  "Please note the IRS has not yet announced the 2027 contribution limits. Limits shown reflect the current IRS limits and are subject to change.":
+    "Tenga en cuenta que el IRS aún no ha anunciado los límites de contribución de 2027. Los límites mostrados reflejan los límites actuales del IRS y están sujetos a cambios.",
+  "Name your beneficiary! Please add your beneficiary information to ensure your 401(k) savings are distributed according to your wishes.":
+    "¡Designe a su beneficiario! Agregue la información de su beneficiario para asegurarse de que sus ahorros del 401(k) se distribuyan conforme a sus deseos.",
+
+  // glossary
+  "Need to Know Definitions": "Definiciones que debe conocer",
+
+  // contacts
+  "Group / Policy": "Grupo / Póliza",
+  Hours: "Horario",
+  Address: "Dirección",
+};
+
+export const TEMPLATES_ES: Record<string, string> = {
+  "{plan} at a glance": "{plan}: resumen",
+  "{plan} Premiums": "Primas de {plan}",
+  "{type} Premiums": "Primas de {type}",
+  "{name} In-Network": "{name} dentro de la red",
+  "{name} Out-of-Network": "{name} fuera de la red",
+  "Administered by {x}.": "Administrado por {x}.",
+  "Available with the {plan} only.": "Disponible solo con el plan {plan}.",
+  "Enroll via {x}.": "Inscríbase a través de {x}.",
+  "Funding source: contributions from {x}.": "Fuente de financiamiento: aportaciones de {x}.",
+  "Eligible expenses include {x}.": "Los gastos elegibles incluyen {x}.",
+  "Eligible expenses: {x}.": "Gastos elegibles: {x}.",
+  "Minimum schedule: {x}.": "Horario mínimo: {x}.",
+  "As a new hire, you have {x} to submit your elections.":
+    "Como nuevo empleado, usted tiene {x} para enviar sus elecciones.",
+  "You have {x} to request changes and provide supporting documents.":
+    "Usted tiene {x} para solicitar cambios y presentar los documentos de respaldo.",
+  "Questions? Contact {x}.": "¿Preguntas? Comuníquese con {x}.",
+  "Who is eligible: {x}": "Quién es elegible: {x}",
+  "Cost: {x}": "Costo: {x}",
+  "Company code: {x}": "Código de la empresa: {x}",
+  "Yes - {x}": "Sí - {x}",
+  "Prescription drug coverage is coordinated with your medical plan and administered through {x}.":
+    "La cobertura de medicamentos recetados se coordina con su plan médico y es administrada por {x}.",
+  "Reach the carriers and administrators behind your {x} benefits.":
+    "Comuníquese con las aseguradoras y administradores de sus beneficios {x}.",
+};

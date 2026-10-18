@@ -1,0 +1,4708 @@
+{
+  "siteMeta": {
+    "employerName": "\n",
+    "brandDisplayName": "Lhoist North America",
+    "planYear": "2027",
+    "siteTitle": "2027 Employee Benefits",
+    "siteDescription": null,
+    "locale": "en-US",
+    "status": null,
+    "sourceDocumentTitle": "2027 Employee Benefits",
+    "sourceDocuments": [
+      "2027 Employee Benefits"
+    ],
+    "sourcePageCount": 45,
+    "homepageTitle": "2027 Employee Benefits",
+    "homepageSubtitle": "",
+    "homepageIntro": "Working together is what makes Lhoist North America a success, and this teamwork extends to your benefits. We provide options to support your family's overall wellbeing.",
+    "enrollmentType": null,
+    "supportEmail": "lna.benefits@lhoist.com",
+    "supportPhone": "800-286-0134",
+    "supportAddress": "5600 Clearfork Main Street, Suite 300, Fort Worth, TX 76109",
+    "disclaimerText": ""
+  },
+  "branding": {
+    "logoDescription": null,
+    "logoUrl": null,
+    "primaryColor": null,
+    "secondaryColor": null,
+    "accentColor": null,
+    "fontFamily": null,
+    "inferredFromDocument": null
+  },
+  "siteStructure": {
+    "homepage": {
+      "heroTitle": "2027 Employee Benefits",
+      "heroSubtitle": "",
+      "showOpenEnrollmentCard": true,
+      "openEnrollmentCard": {
+        "title": "Open Enrollment is here",
+        "window": "",
+        "body": "Your elections are effective on your date of hire.",
+        "ctaLabel": "Review Benefits",
+        "ctaTarget": "enrollment"
+      },
+      "showNewHireCard": true,
+      "newHireCard": {
+        "title": "New Hire Benefits Enrollment",
+        "window": "30 days from the date of hire",
+        "body": "",
+        "ctaLabel": "Enroll Now",
+        "ctaTarget": "enrollment"
+      },
+      "exploreYourBenefits": [
+        {
+          "groupKey": "medical",
+          "groupTitle": "Medical, Dental & Vision",
+          "groupDescription": "Overview of your core health benefits",
+          "chapterKeys": [
+            "medicalPlans",
+            "dentalPlans",
+            "visionPlans",
+            "spendingAccounts"
+          ]
+        },
+        {
+          "groupKey": "retirement",
+          "groupTitle": "Retirement & Income Protection",
+          "groupDescription": "Disability & retirement benefits",
+          "chapterKeys": [
+            "retirement"
+          ]
+        },
+        {
+          "groupKey": "additional",
+          "groupTitle": "Tax advantaged Accounts",
+          "groupDescription": "How HSAs and FSAs can help you save",
+          "chapterKeys": [
+            "eap",
+            "survivorBenefits",
+            "supplementalHealth",
+            "incomeProtection",
+            "wellness",
+            "additionalBenefits"
+          ]
+        },
+        {
+          "groupKey": "spendingAccounts",
+          "groupTitle": "Important contacts",
+          "groupDescription": "Phone number, emails and websites for your benefits",
+          "chapterKeys": [
+            "eligibility",
+            "glossary"
+          ]
+        }
+      ]
+    },
+    "pageOrder": [
+      {
+        "pageSlug": "overview",
+        "pageTitle": "Overview of Available Plans",
+        "chapterKey": "overview",
+        "pageType": "standard",
+        "parentChapterKey": "",
+        "showInNav": true
+      },
+      {
+        "pageSlug": "eligibility",
+        "pageTitle": "Eligibility & Enrollment",
+        "chapterKey": "eligibility",
+        "pageType": "standard",
+        "parentChapterKey": "",
+        "showInNav": true
+      },
+      {
+        "pageSlug": "ppo",
+        "pageTitle": "PPO",
+        "chapterKey": "ppo",
+        "pageType": "medicalPlanDetail",
+        "parentChapterKey": "medicalPlans",
+        "showInNav": true
+      },
+      {
+        "pageSlug": "hdhp",
+        "pageTitle": "HDHP",
+        "chapterKey": "hdhp",
+        "pageType": "medicalPlanDetail",
+        "parentChapterKey": "medicalPlans",
+        "showInNav": true
+      },
+      {
+        "pageSlug": "dentalplans",
+        "pageTitle": "Dental Benefits",
+        "chapterKey": "dentalPlans",
+        "pageType": "standard",
+        "parentChapterKey": "",
+        "showInNav": true
+      },
+      {
+        "pageSlug": "visionplans",
+        "pageTitle": "Vision Benefits",
+        "chapterKey": "visionPlans",
+        "pageType": "standard",
+        "parentChapterKey": "",
+        "showInNav": true
+      },
+      {
+        "pageSlug": "wellness",
+        "pageTitle": "Wellness",
+        "chapterKey": "wellness",
+        "pageType": "standard",
+        "parentChapterKey": "",
+        "showInNav": true
+      },
+      {
+        "pageSlug": "spendingaccounts",
+        "pageTitle": "HSA & FSA",
+        "chapterKey": "spendingAccounts",
+        "pageType": "standard",
+        "parentChapterKey": "",
+        "showInNav": true
+      },
+      {
+        "pageSlug": "eap",
+        "pageTitle": "Employee Assistance Program",
+        "chapterKey": "eap",
+        "pageType": "standard",
+        "parentChapterKey": "",
+        "showInNav": true
+      },
+      {
+        "pageSlug": "supplementalhealth",
+        "pageTitle": "Supplemental Health",
+        "chapterKey": "supplementalHealth",
+        "pageType": "standard",
+        "parentChapterKey": "",
+        "showInNav": true
+      },
+      {
+        "pageSlug": "incomeprotection",
+        "pageTitle": "Income Protection",
+        "chapterKey": "incomeProtection",
+        "pageType": "standard",
+        "parentChapterKey": "",
+        "showInNav": true
+      },
+      {
+        "pageSlug": "survivorbenefits",
+        "pageTitle": "Survivor Benefits",
+        "chapterKey": "survivorBenefits",
+        "pageType": "standard",
+        "parentChapterKey": "",
+        "showInNav": true
+      },
+      {
+        "pageSlug": "retirement",
+        "pageTitle": "Retirement",
+        "chapterKey": "retirement",
+        "pageType": "standard",
+        "parentChapterKey": "",
+        "showInNav": true
+      },
+      {
+        "pageSlug": "additionalbenefits",
+        "pageTitle": "Additional Benefits",
+        "chapterKey": "additionalBenefits",
+        "pageType": "standard",
+        "parentChapterKey": "",
+        "showInNav": true
+      },
+      {
+        "pageSlug": "contacts",
+        "pageTitle": "Contacts",
+        "chapterKey": "contacts",
+        "pageType": "contacts",
+        "parentChapterKey": "",
+        "showInNav": true
+      },
+      {
+        "pageSlug": "glossary",
+        "pageTitle": "Glossary",
+        "chapterKey": "glossary",
+        "pageType": "standard",
+        "parentChapterKey": "",
+        "showInNav": true
+      }
+    ]
+  },
+  "chapters": {
+    "overview": {
+      "chapterKey": "overview",
+      "chapterTitle": "Overview of Available Plans",
+      "summary": "Lhoist North America’s 2027 benefits guide offers a range of medical, pharmacy, spending account, dental, vision, retirement, supplemental health, and other employee programs to support overall wellbeing.",
+      "isSynthesized": true,
+      "benefitsAtAGlance": [
+        {
+          "category": "Medical",
+          "carrier": "Blue Cross Blue Shield of Texas",
+          "planNames": [
+            "PPO",
+            "HDHP"
+          ],
+          "notes": ""
+        },
+        {
+          "category": "Dental",
+          "carrier": "Delta Dental",
+          "planNames": [
+            "PPO"
+          ],
+          "notes": ""
+        },
+        {
+          "category": "Vision",
+          "carrier": "VSP",
+          "planNames": [
+            "Enhanced Advantage Base Plan",
+            "Enhanced Advantage Buy-Up Plan"
+          ],
+          "notes": ""
+        }
+      ],
+      "premiumTables": [
+        {
+          "benefitType": "Medical",
+          "tableTitle": "Medical Premiums",
+          "frequency": "Biweekly Contributions",
+          "planColumns": [
+            "PPO",
+            "HDHP"
+          ],
+          "costColumns": [
+            "Biweekly Contributions"
+          ],
+          "tiers": [
+            {
+              "tierLabel": "Employee Only",
+              "costs": [
+                {
+                  "columnLabel": "PPO",
+                  "value": "$94.07"
+                },
+                {
+                  "columnLabel": "HDHP",
+                  "value": "$79.05"
+                }
+              ]
+            },
+            {
+              "tierLabel": "Employee + Spouse",
+              "costs": [
+                {
+                  "columnLabel": "PPO",
+                  "value": "$174.80"
+                },
+                {
+                  "columnLabel": "HDHP",
+                  "value": "$142.97"
+                }
+              ]
+            },
+            {
+              "tierLabel": "Employee + Child(ren)",
+              "costs": [
+                {
+                  "columnLabel": "PPO",
+                  "value": "$147.89"
+                },
+                {
+                  "columnLabel": "HDHP",
+                  "value": "$120.88"
+                }
+              ]
+            },
+            {
+              "tierLabel": "Employee + Family",
+              "costs": [
+                {
+                  "columnLabel": "PPO",
+                  "value": "$248.65"
+                },
+                {
+                  "columnLabel": "HDHP",
+                  "value": "$199.15"
+                }
+              ]
+            }
+          ],
+          "footnotes": []
+        },
+        {
+          "benefitType": "Dental",
+          "tableTitle": "Dental Premiums",
+          "frequency": "Biweekly contributions",
+          "planColumns": [
+            "PPO"
+          ],
+          "costColumns": [
+            "Biweekly Contributions"
+          ],
+          "tiers": [
+            {
+              "tierLabel": "Employee Only",
+              "costs": [
+                {
+                  "columnLabel": "PPO",
+                  "value": "$3.52"
+                }
+              ]
+            },
+            {
+              "tierLabel": "Employee + Spouse",
+              "costs": [
+                {
+                  "columnLabel": "PPO",
+                  "value": "$7.43"
+                }
+              ]
+            },
+            {
+              "tierLabel": "Employee + Child(ren)",
+              "costs": [
+                {
+                  "columnLabel": "PPO",
+                  "value": "$6.02"
+                }
+              ]
+            },
+            {
+              "tierLabel": "Employee + Family",
+              "costs": [
+                {
+                  "columnLabel": "PPO",
+                  "value": "$11.04"
+                }
+              ]
+            }
+          ],
+          "footnotes": []
+        },
+        {
+          "benefitType": "Vision",
+          "tableTitle": "Vision Premiums",
+          "frequency": "Biweekly contributions",
+          "planColumns": [
+            "Enhanced Advantage Base Plan",
+            "Enhanced Advantage Buy-Up Plan"
+          ],
+          "costColumns": [
+            "Biweekly Contributions"
+          ],
+          "tiers": [
+            {
+              "tierLabel": "Employee Only",
+              "costs": [
+                {
+                  "columnLabel": "Enhanced Advantage Base Plan",
+                  "value": "$0.97"
+                },
+                {
+                  "columnLabel": "Enhanced Advantage Buy-Up Plan",
+                  "value": "$2.14"
+                }
+              ]
+            },
+            {
+              "tierLabel": "Employee + Spouse",
+              "costs": [
+                {
+                  "columnLabel": "Enhanced Advantage Base Plan",
+                  "value": "$1.95"
+                },
+                {
+                  "columnLabel": "Enhanced Advantage Buy-Up Plan",
+                  "value": "$3.73"
+                }
+              ]
+            },
+            {
+              "tierLabel": "Employee + Child(ren)",
+              "costs": [
+                {
+                  "columnLabel": "Enhanced Advantage Base Plan",
+                  "value": "$2.09"
+                },
+                {
+                  "columnLabel": "Enhanced Advantage Buy-Up Plan",
+                  "value": "$3.99"
+                }
+              ]
+            },
+            {
+              "tierLabel": "Employee + Family",
+              "costs": [
+                {
+                  "columnLabel": "Enhanced Advantage Base Plan",
+                  "value": "$3.34"
+                },
+                {
+                  "columnLabel": "Enhanced Advantage Buy-Up Plan",
+                  "value": "$6.37"
+                }
+              ]
+            }
+          ],
+          "footnotes": []
+        }
+      ]
+    },
+    "eligibility": {
+      "chapterKey": "eligibility",
+      "chapterTitle": "Eligibility & Enrollment",
+      "chapterSubtitle": null,
+      "siteGroup": null,
+      "summary": "Review who is eligible, when coverage begins, and how to make changes during the year.",
+      "sourcePages": [
+        3,
+        7,
+        8
+      ],
+      "employeeEligibility": "If you are a full-time employee of Lhoist North America who is regularly scheduled to work 30 or more hours per week, you are eligible to participate in medical, dental, vision, life and disability plans, and additional benefits.",
+      "minimumHoursPerWeek": "",
+      "waitingPeriod": null,
+      "eligibleDependents": [
+        "Your legal spouse (or common-law spouse where recognized).",
+        "Children up to age 26 (includes birth children, stepchildren, legally adopted children, children placed for adoption, foster children, and children for whom you or your spouse have legal guardianship).",
+        "Dependent children 26 or more years old, unmarried, and primarily supported by you and incapable of self-sustaining employment by reason of mental or physical disability which arose while the child was covered as a dependent under this plan (periodic certification may be required).",
+        "If you are adding dependents, please make sure you have their full name, date of birth, and social security number along with any supporting documents to verify the dependent relationship.",
+        "Dependent verification will be completed through Dependent Specialists, Inc. (DSI)."
+      ],
+      "dependentAgeLimits": null,
+      "newHireEnrollmentWindow": "30 days from the date of hire",
+      "qualifyingLifeEventWindow": "30 days after the date of the event",
+      "qualifyingLifeEvents": [
+        "A change in the number of dependents (through birth or adoption or if a child is no longer an eligible dependent)",
+        "A change in a spouse’s employment status (resulting in a loss or gain of coverage)",
+        "A change in your legal marital status (marriage, divorce, or legal separation)",
+        "A change in employment status from full time to part time, or part time to full time, resulting in a gain or loss of eligibility",
+        "Eligibility for coverage through the Marketplace",
+        "Changes in address or location that may affect coverage",
+        "Entitlement to Medicare or Medicaid",
+        "Turning 26 and losing coverage through a parent’s plan",
+        "Death in the family (leading to change in dependents or loss of coverage)",
+        "Changes that make you no longer eligible for Medicaid or the Children’s Health Insurance Program (CHIP)"
+      ],
+      "qleRequestProcess": "Employees should go into Workday, click Menu and then Benefits. Navigate to Changing Your Benefits.",
+      "coverageEffectiveDates": [
+        {
+          "benefitTypes": "medical, dental, vision, life and disability plans, and additional benefits",
+          "effectiveDateRule": "Your elections are effective on your date of hire."
+        }
+      ],
+      "coverageEndRules": null,
+      "enrollmentPlatform": "Workday",
+      "enrollmentSteps": null,
+      "domesticPartnerTaxationNote": null,
+      "hrContact": null,
+      "sections": null,
+      "tables": null
+    },
+    "medicalPlans": {
+      "chapterKey": "medicalPlans",
+      "chapterTitle": "Medical Benefits",
+      "chapterSubtitle": null,
+      "siteGroup": "medical",
+      "summary": "Medical benefits are provided through Blue Cross Blue Shield of Texas (BCBSTX) and include PPO and HDHP with biweekly premiums, in-network and out-of-network cost.",
+      "sourcePages": [
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19
+      ],
+      "planCount": 2,
+      "plans": [
+        {
+          "planKey": "ppo",
+          "planName": "PPO",
+          "pageSlug": null,
+          "pageSubtitle": null,
+          "carrier": "Blue Cross Blue Shield of Texas (BCBSTX)",
+          "planType": "PPO",
+          "networkName": null,
+          "hasOutOfNetworkCoverage": true,
+          "hsaEligible": null,
+          "fsaEligible": null,
+          "employerAccountContribution": null,
+          "planDescription": null,
+          "coverageTables": [
+            {
+              "tableTitle": "Medical Plan Summary",
+              "columnLabels": [
+                "In-Network",
+                "Out-of-Network"
+              ],
+              "rows": [
+                {
+                  "rowLabel": "Annual Deductible - Individual",
+                  "cells": [
+                    {
+                      "columnLabel": "In-Network",
+                      "value": "$1,500"
+                    },
+                    {
+                      "columnLabel": "Out-of-Network",
+                      "value": "$3,000"
+                    }
+                  ],
+                  "rowFootnote": null
+                },
+                {
+                  "rowLabel": "Annual Deductible - Family",
+                  "cells": [
+                    {
+                      "columnLabel": "In-Network",
+                      "value": "$3,000"
+                    },
+                    {
+                      "columnLabel": "Out-of-Network",
+                      "value": "$6,000"
+                    }
+                  ],
+                  "rowFootnote": null
+                },
+                {
+                  "rowLabel": "Coinsurance (You Pay)",
+                  "cells": [
+                    {
+                      "columnLabel": "In-Network",
+                      "value": "20%*"
+                    },
+                    {
+                      "columnLabel": "Out-of-Network",
+                      "value": "40%*"
+                    }
+                  ],
+                  "rowFootnote": null
+                },
+                {
+                  "rowLabel": "Annual Out-of-Pocket Maximum - Individual",
+                  "cells": [
+                    {
+                      "columnLabel": "In-Network",
+                      "value": "$6,000"
+                    },
+                    {
+                      "columnLabel": "Out-of-Network",
+                      "value": "$12,000"
+                    }
+                  ],
+                  "rowFootnote": null
+                },
+                {
+                  "rowLabel": "Annual Out-of-Pocket Maximum - Family",
+                  "cells": [
+                    {
+                      "columnLabel": "In-Network",
+                      "value": "$8,000"
+                    },
+                    {
+                      "columnLabel": "Out-of-Network",
+                      "value": "$16,000"
+                    }
+                  ],
+                  "rowFootnote": null
+                },
+                {
+                  "rowLabel": "Preventive Care",
+                  "cells": [
+                    {
+                      "columnLabel": "In-Network",
+                      "value": "100% No Deductible"
+                    },
+                    {
+                      "columnLabel": "Out-of-Network",
+                      "value": "100% No Deductible"
+                    }
+                  ],
+                  "rowFootnote": null
+                },
+                {
+                  "rowLabel": "Physician Office",
+                  "cells": [
+                    {
+                      "columnLabel": "In-Network",
+                      "value": "$30"
+                    },
+                    {
+                      "columnLabel": "Out-of-Network",
+                      "value": "40%*"
+                    }
+                  ],
+                  "rowFootnote": null
+                },
+                {
+                  "rowLabel": "Specialist Office",
+                  "cells": [
+                    {
+                      "columnLabel": "In-Network",
+                      "value": "$60"
+                    },
+                    {
+                      "columnLabel": "Out-of-Network",
+                      "value": "40%*"
+                    }
+                  ],
+                  "rowFootnote": null
+                },
+                {
+                  "rowLabel": "Urgent Care",
+                  "cells": [
+                    {
+                      "columnLabel": "In-Network",
+                      "value": "$80"
+                    },
+                    {
+                      "columnLabel": "Out-of-Network",
+                      "value": "40%*"
+                    }
+                  ],
+                  "rowFootnote": null
+                },
+                {
+                  "rowLabel": "Emergency Room",
+                  "cells": [
+                    {
+                      "columnLabel": "In-Network",
+                      "value": "Deductible + 20%"
+                    },
+                    {
+                      "columnLabel": "Out-of-Network",
+                      "value": "Deductible + 20%"
+                    }
+                  ],
+                  "rowFootnote": null
+                },
+                {
+                  "rowLabel": "Telemedicine",
+                  "cells": [
+                    {
+                      "columnLabel": "In-Network",
+                      "value": "$0"
+                    },
+                    {
+                      "columnLabel": "Out-of-Network",
+                      "value": "N/A"
+                    }
+                  ],
+                  "rowFootnote": null
+                },
+                {
+                  "rowLabel": "X-Ray/Lab",
+                  "cells": [
+                    {
+                      "columnLabel": "In-Network",
+                      "value": "20%*"
+                    },
+                    {
+                      "columnLabel": "Out-of-Network",
+                      "value": "40%*"
+                    }
+                  ],
+                  "rowFootnote": null
+                },
+                {
+                  "rowLabel": "Outpatient/Inpatient**",
+                  "cells": [
+                    {
+                      "columnLabel": "In-Network",
+                      "value": "20%*"
+                    },
+                    {
+                      "columnLabel": "Out-of-Network",
+                      "value": "40%*"
+                    }
+                  ],
+                  "rowFootnote": null
+                }
+              ],
+              "footnotes": [
+                ""
+              ],
+              "sourcePage": 12
+            }
+          ],
+          "premiums": {
+            "frequency": "Biweekly Contributions",
+            "costColumns": [
+              "Biweekly Contributions"
+            ],
+            "tiers": [
+              {
+                "tierLabel": "Employee Only",
+                "costs": [
+                  {
+                    "columnLabel": "Biweekly Contributions",
+                    "value": "$94.07"
+                  }
+                ]
+              },
+              {
+                "tierLabel": "Employee + Spouse",
+                "costs": [
+                  {
+                    "columnLabel": "Biweekly Contributions",
+                    "value": "$174.80"
+                  }
+                ]
+              },
+              {
+                "tierLabel": "Employee + Child(ren)",
+                "costs": [
+                  {
+                    "columnLabel": "Biweekly Contributions",
+                    "value": "$147.89"
+                  }
+                ]
+              },
+              {
+                "tierLabel": "Employee + Family",
+                "costs": [
+                  {
+                    "columnLabel": "Biweekly Contributions",
+                    "value": "$248.65"
+                  }
+                ]
+              }
+            ],
+            "surcharges": null,
+            "footnotes": null,
+            "sourcePage": 12
+          },
+          "footnotes": [
+            ""
+          ]
+        },
+        {
+          "planKey": "hdhp",
+          "planName": "HDHP",
+          "pageSlug": null,
+          "pageSubtitle": null,
+          "carrier": "Blue Cross Blue Shield of Texas (BCBSTX)",
+          "planType": "HDHP",
+          "networkName": null,
+          "hasOutOfNetworkCoverage": true,
+          "hsaEligible": null,
+          "fsaEligible": null,
+          "employerAccountContribution": null,
+          "planDescription": null,
+          "coverageTables": [
+            {
+              "tableTitle": "Medical Plan Summary",
+              "columnLabels": [
+                "In-Network",
+                "Out-of-Network"
+              ],
+              "rows": [
+                {
+                  "rowLabel": "Annual Deductible - Individual",
+                  "cells": [
+                    {
+                      "columnLabel": "In-Network",
+                      "value": "$3,500"
+                    },
+                    {
+                      "columnLabel": "Out-of-Network",
+                      "value": "$5,600"
+                    }
+                  ],
+                  "rowFootnote": null
+                },
+                {
+                  "rowLabel": "Annual Deductible - Family",
+                  "cells": [
+                    {
+                      "columnLabel": "In-Network",
+                      "value": "$7,000"
+                    },
+                    {
+                      "columnLabel": "Out-of-Network",
+                      "value": "$11,200"
+                    }
+                  ],
+                  "rowFootnote": null
+                },
+                {
+                  "rowLabel": "Coinsurance (You Pay)",
+                  "cells": [
+                    {
+                      "columnLabel": "In-Network",
+                      "value": "20%*"
+                    },
+                    {
+                      "columnLabel": "Out-of-Network",
+                      "value": "40%*"
+                    }
+                  ],
+                  "rowFootnote": null
+                },
+                {
+                  "rowLabel": "Annual Out-of-Pocket Maximum - Individual",
+                  "cells": [
+                    {
+                      "columnLabel": "In-Network",
+                      "value": "$5,000"
+                    },
+                    {
+                      "columnLabel": "Out-of-Network",
+                      "value": "$10,000"
+                    }
+                  ],
+                  "rowFootnote": null
+                },
+                {
+                  "rowLabel": "Annual Out-of-Pocket Maximum - Family",
+                  "cells": [
+                    {
+                      "columnLabel": "In-Network",
+                      "value": "$7,000"
+                    },
+                    {
+                      "columnLabel": "Out-of-Network",
+                      "value": "$14,000"
+                    }
+                  ],
+                  "rowFootnote": null
+                },
+                {
+                  "rowLabel": "Preventive Care",
+                  "cells": [
+                    {
+                      "columnLabel": "In-Network",
+                      "value": "100% No Deductible"
+                    },
+                    {
+                      "columnLabel": "Out-of-Network",
+                      "value": "100% No Deductible"
+                    }
+                  ],
+                  "rowFootnote": null
+                },
+                {
+                  "rowLabel": "Physician Office",
+                  "cells": [
+                    {
+                      "columnLabel": "In-Network",
+                      "value": "20%*"
+                    },
+                    {
+                      "columnLabel": "Out-of-Network",
+                      "value": "40%*"
+                    }
+                  ],
+                  "rowFootnote": null
+                },
+                {
+                  "rowLabel": "Specialist Office",
+                  "cells": [
+                    {
+                      "columnLabel": "In-Network",
+                      "value": "20%*"
+                    },
+                    {
+                      "columnLabel": "Out-of-Network",
+                      "value": "40%*"
+                    }
+                  ],
+                  "rowFootnote": null
+                },
+                {
+                  "rowLabel": "Urgent Care",
+                  "cells": [
+                    {
+                      "columnLabel": "In-Network",
+                      "value": "20%*"
+                    },
+                    {
+                      "columnLabel": "Out-of-Network",
+                      "value": "40%*"
+                    }
+                  ],
+                  "rowFootnote": null
+                },
+                {
+                  "rowLabel": "Emergency Room",
+                  "cells": [
+                    {
+                      "columnLabel": "In-Network",
+                      "value": "Deductible + 20%"
+                    },
+                    {
+                      "columnLabel": "Out-of-Network",
+                      "value": "Deductible + 20%"
+                    }
+                  ],
+                  "rowFootnote": null
+                },
+                {
+                  "rowLabel": "Telemedicine",
+                  "cells": [
+                    {
+                      "columnLabel": "In-Network",
+                      "value": "20%*"
+                    },
+                    {
+                      "columnLabel": "Out-of-Network",
+                      "value": "N/A"
+                    }
+                  ],
+                  "rowFootnote": null
+                },
+                {
+                  "rowLabel": "X-Ray/Lab",
+                  "cells": [
+                    {
+                      "columnLabel": "In-Network",
+                      "value": "20%*"
+                    },
+                    {
+                      "columnLabel": "Out-of-Network",
+                      "value": "40%*"
+                    }
+                  ],
+                  "rowFootnote": null
+                },
+                {
+                  "rowLabel": "Outpatient/Inpatient**",
+                  "cells": [
+                    {
+                      "columnLabel": "In-Network",
+                      "value": "20%*"
+                    },
+                    {
+                      "columnLabel": "Out-of-Network",
+                      "value": "40%*"
+                    }
+                  ],
+                  "rowFootnote": null
+                }
+              ],
+              "footnotes": [
+                ""
+              ],
+              "sourcePage": 12
+            }
+          ],
+          "premiums": {
+            "frequency": "Biweekly Contributions",
+            "costColumns": [
+              "Biweekly Contributions"
+            ],
+            "tiers": [
+              {
+                "tierLabel": "Employee Only",
+                "costs": [
+                  {
+                    "columnLabel": "Biweekly Contributions",
+                    "value": "$79.05"
+                  }
+                ]
+              },
+              {
+                "tierLabel": "Employee + Spouse",
+                "costs": [
+                  {
+                    "columnLabel": "Biweekly Contributions",
+                    "value": "$142.97"
+                  }
+                ]
+              },
+              {
+                "tierLabel": "Employee + Child(ren)",
+                "costs": [
+                  {
+                    "columnLabel": "Biweekly Contributions",
+                    "value": "$120.88"
+                  }
+                ]
+              },
+              {
+                "tierLabel": "Employee + Family",
+                "costs": [
+                  {
+                    "columnLabel": "Biweekly Contributions",
+                    "value": "$199.15"
+                  }
+                ]
+              }
+            ],
+            "surcharges": null,
+            "footnotes": null,
+            "sourcePage": 12
+          },
+          "footnotes": [
+            ""
+          ]
+        }
+      ],
+      "pharmacy": {
+        "administeredThrough": "BCBSTX",
+        "tierTables": [
+          {
+            "tableTitle": "Retail Rx (30-Day Supply) - Preventive Drugs",
+            "supplyLimit": null,
+            "columnLabels": [
+              "PPO In-Network",
+              "PPO Out-of-Network",
+              "HDHP In-Network",
+              "HDHP Out-of-Network"
+            ],
+            "rows": [
+              {
+                "rowLabel": "GENERIC",
+                "cells": [
+                  {
+                    "columnLabel": "PPO In-Network",
+                    "value": "$10"
+                  },
+                  {
+                    "columnLabel": "PPO Out-of-Network",
+                    "value": "Copay + 40%"
+                  },
+                  {
+                    "columnLabel": "HDHP In-Network",
+                    "value": "$10"
+                  },
+                  {
+                    "columnLabel": "HDHP Out-of-Network",
+                    "value": "40%*"
+                  }
+                ],
+                "rowFootnote": null
+              },
+              {
+                "rowLabel": "PREFERRED BRAND",
+                "cells": [
+                  {
+                    "columnLabel": "PPO In-Network",
+                    "value": "$50"
+                  },
+                  {
+                    "columnLabel": "PPO Out-of-Network",
+                    "value": "Copay + 40%"
+                  },
+                  {
+                    "columnLabel": "HDHP In-Network",
+                    "value": "$50"
+                  },
+                  {
+                    "columnLabel": "HDHP Out-of-Network",
+                    "value": "40%*"
+                  }
+                ],
+                "rowFootnote": null
+              },
+              {
+                "rowLabel": "NON-PREFERRED BRAND",
+                "cells": [
+                  {
+                    "columnLabel": "PPO In-Network",
+                    "value": "$100"
+                  },
+                  {
+                    "columnLabel": "PPO Out-of-Network",
+                    "value": "Copay + 40%"
+                  },
+                  {
+                    "columnLabel": "HDHP In-Network",
+                    "value": "$100"
+                  },
+                  {
+                    "columnLabel": "HDHP Out-of-Network",
+                    "value": "40%*"
+                  }
+                ],
+                "rowFootnote": null
+              },
+              {
+                "rowLabel": "SPECIALTY",
+                "cells": [
+                  {
+                    "columnLabel": "PPO In-Network",
+                    "value": "$150"
+                  },
+                  {
+                    "columnLabel": "PPO Out-of-Network",
+                    "value": "Copay + 40%"
+                  },
+                  {
+                    "columnLabel": "HDHP In-Network",
+                    "value": "$150"
+                  },
+                  {
+                    "columnLabel": "HDHP Out-of-Network",
+                    "value": "40%*"
+                  }
+                ],
+                "rowFootnote": null
+              }
+            ],
+            "footnotes": [
+              "*After deductible"
+            ],
+            "sourcePage": 19
+          },
+          {
+            "tableTitle": "Retail Rx (30-Day Supply) - Non-Preventive Drugs",
+            "supplyLimit": null,
+            "columnLabels": [
+              "PPO In-Network",
+              "PPO Out-of-Network",
+              "HDHP In-Network",
+              "HDHP Out-of-Network"
+            ],
+            "rows": [
+              {
+                "rowLabel": "GENERIC - NON PREVENTIVE",
+                "cells": [
+                  {
+                    "columnLabel": "PPO In-Network",
+                    "value": "$10"
+                  },
+                  {
+                    "columnLabel": "PPO Out-of-Network",
+                    "value": "Copay + 40%"
+                  },
+                  {
+                    "columnLabel": "HDHP In-Network",
+                    "value": "20%*"
+                  },
+                  {
+                    "columnLabel": "HDHP Out-of-Network",
+                    "value": "40%*"
+                  }
+                ],
+                "rowFootnote": null
+              },
+              {
+                "rowLabel": "PREFERRED BRAND",
+                "cells": [
+                  {
+                    "columnLabel": "PPO In-Network",
+                    "value": "$50"
+                  },
+                  {
+                    "columnLabel": "PPO Out-of-Network",
+                    "value": "Copay + 40%"
+                  },
+                  {
+                    "columnLabel": "HDHP In-Network",
+                    "value": "20%*"
+                  },
+                  {
+                    "columnLabel": "HDHP Out-of-Network",
+                    "value": "40%*"
+                  }
+                ],
+                "rowFootnote": null
+              },
+              {
+                "rowLabel": "NON-PREFERRED BRAND",
+                "cells": [
+                  {
+                    "columnLabel": "PPO In-Network",
+                    "value": "$100"
+                  },
+                  {
+                    "columnLabel": "PPO Out-of-Network",
+                    "value": "Copay + 40%"
+                  },
+                  {
+                    "columnLabel": "HDHP In-Network",
+                    "value": "20%*"
+                  },
+                  {
+                    "columnLabel": "HDHP Out-of-Network",
+                    "value": "40%*"
+                  }
+                ],
+                "rowFootnote": null
+              },
+              {
+                "rowLabel": "SPECIALTY",
+                "cells": [
+                  {
+                    "columnLabel": "PPO In-Network",
+                    "value": "$150"
+                  },
+                  {
+                    "columnLabel": "PPO Out-of-Network",
+                    "value": "Copay + 40%"
+                  },
+                  {
+                    "columnLabel": "HDHP In-Network",
+                    "value": "20%*"
+                  },
+                  {
+                    "columnLabel": "HDHP Out-of-Network",
+                    "value": "40%*"
+                  }
+                ],
+                "rowFootnote": null
+              }
+            ],
+            "footnotes": [
+              "*After deductible"
+            ],
+            "sourcePage": 19
+          },
+          {
+            "tableTitle": "Mail Order Rx (90-Day Supply) - Preventive Drugs",
+            "supplyLimit": null,
+            "columnLabels": [
+              "PPO In-Network",
+              "PPO Out-of-Network",
+              "HDHP In-Network",
+              "HDHP Out-of-Network"
+            ],
+            "rows": [
+              {
+                "rowLabel": "GENERIC",
+                "cells": [
+                  {
+                    "columnLabel": "PPO In-Network",
+                    "value": "$20"
+                  },
+                  {
+                    "columnLabel": "PPO Out-of-Network",
+                    "value": "Copay + 40%"
+                  },
+                  {
+                    "columnLabel": "HDHP In-Network",
+                    "value": "$20"
+                  },
+                  {
+                    "columnLabel": "HDHP Out-of-Network",
+                    "value": "40%*"
+                  }
+                ],
+                "rowFootnote": null
+              },
+              {
+                "rowLabel": "PREFERRED BRAND",
+                "cells": [
+                  {
+                    "columnLabel": "PPO In-Network",
+                    "value": "$100"
+                  },
+                  {
+                    "columnLabel": "PPO Out-of-Network",
+                    "value": "Copay + 40%"
+                  },
+                  {
+                    "columnLabel": "HDHP In-Network",
+                    "value": "$100"
+                  },
+                  {
+                    "columnLabel": "HDHP Out-of-Network",
+                    "value": "40%*"
+                  }
+                ],
+                "rowFootnote": null
+              },
+              {
+                "rowLabel": "NON-PREFERRED BRAND",
+                "cells": [
+                  {
+                    "columnLabel": "PPO In-Network",
+                    "value": "$200"
+                  },
+                  {
+                    "columnLabel": "PPO Out-of-Network",
+                    "value": "Copay + 40%"
+                  },
+                  {
+                    "columnLabel": "HDHP In-Network",
+                    "value": "$200"
+                  },
+                  {
+                    "columnLabel": "HDHP Out-of-Network",
+                    "value": "40%*"
+                  }
+                ],
+                "rowFootnote": null
+              },
+              {
+                "rowLabel": "SPECIALTY",
+                "cells": [
+                  {
+                    "columnLabel": "PPO In-Network",
+                    "value": "$300"
+                  },
+                  {
+                    "columnLabel": "PPO Out-of-Network",
+                    "value": "Copay + 40%"
+                  },
+                  {
+                    "columnLabel": "HDHP In-Network",
+                    "value": "$300"
+                  },
+                  {
+                    "columnLabel": "HDHP Out-of-Network",
+                    "value": "40%*"
+                  }
+                ],
+                "rowFootnote": null
+              }
+            ],
+            "footnotes": [
+              "*After deductible"
+            ],
+            "sourcePage": 19
+          },
+          {
+            "tableTitle": "Mail Order Rx (90-Day Supply) - Non-Preventive Drugs",
+            "supplyLimit": null,
+            "columnLabels": [
+              "PPO In-Network",
+              "PPO Out-of-Network",
+              "HDHP In-Network",
+              "HDHP Out-of-Network"
+            ],
+            "rows": [
+              {
+                "rowLabel": "GENERIC - NON-PREVENTIVE",
+                "cells": [
+                  {
+                    "columnLabel": "PPO In-Network",
+                    "value": "$20"
+                  },
+                  {
+                    "columnLabel": "PPO Out-of-Network",
+                    "value": "Copay + 40%"
+                  },
+                  {
+                    "columnLabel": "HDHP In-Network",
+                    "value": "20%*"
+                  },
+                  {
+                    "columnLabel": "HDHP Out-of-Network",
+                    "value": "40%*"
+                  }
+                ],
+                "rowFootnote": null
+              },
+              {
+                "rowLabel": "PREFERRED BRAND",
+                "cells": [
+                  {
+                    "columnLabel": "PPO In-Network",
+                    "value": "$100"
+                  },
+                  {
+                    "columnLabel": "PPO Out-of-Network",
+                    "value": "Copay + 40%"
+                  },
+                  {
+                    "columnLabel": "HDHP In-Network",
+                    "value": "20%*"
+                  },
+                  {
+                    "columnLabel": "HDHP Out-of-Network",
+                    "value": "40%*"
+                  }
+                ],
+                "rowFootnote": null
+              },
+              {
+                "rowLabel": "NON-PREFERRED BRAND",
+                "cells": [
+                  {
+                    "columnLabel": "PPO In-Network",
+                    "value": "$200"
+                  },
+                  {
+                    "columnLabel": "PPO Out-of-Network",
+                    "value": "Copay + 40%"
+                  },
+                  {
+                    "columnLabel": "HDHP In-Network",
+                    "value": "20%*"
+                  },
+                  {
+                    "columnLabel": "HDHP Out-of-Network",
+                    "value": "40%*"
+                  }
+                ],
+                "rowFootnote": null
+              },
+              {
+                "rowLabel": "SPECIALTY",
+                "cells": [
+                  {
+                    "columnLabel": "PPO In-Network",
+                    "value": "$300"
+                  },
+                  {
+                    "columnLabel": "PPO Out-of-Network",
+                    "value": "Copay + 40%"
+                  },
+                  {
+                    "columnLabel": "HDHP In-Network",
+                    "value": "20%*"
+                  },
+                  {
+                    "columnLabel": "HDHP Out-of-Network",
+                    "value": "40%*"
+                  }
+                ],
+                "rowFootnote": null
+              }
+            ],
+            "footnotes": [
+              "*After deductible"
+            ],
+            "sourcePage": 19
+          }
+        ],
+        "preventiveMedsNote": "Affordable Care Act (ACA) preventive drugs are covered at 100%.",
+        "homeDeliveryPharmacyName": null,
+        "homeDeliveryEnrollmentMethods": null,
+        "homeDeliveryContact": null,
+        "savingsPrograms": null
+      },
+      "memberResources": [
+        {
+          "resourceName": "Health Advocacy Solutions",
+          "resourceType": "advocacy",
+          "description": "Insurance can be confusing. LNA believes it is important for everyone to understand their benefits so that they can make the best decision for medical care. To make this easier, LNA has purchased Health Advocacy Solutions, a concierge service from Blue Cross Blue Shield.",
+          "cost": null,
+          "phone": "888-423-5475",
+          "website": "www.bcbstx.com",
+          "howToAccess": "Call or chat with your advocate today. Download the BCBSTX App to live chat or call 888-423-5475."
+        },
+        {
+          "resourceName": "Telemedicine",
+          "resourceType": "telemedicine",
+          "description": "Available through Teladoc (a partner of BCBSTX). You are able to receive physician consultation 24/7 through your smartphone or tablet.",
+          "cost": null,
+          "phone": "800-835-2362",
+          "website": "teladoc.com/bcbstx",
+          "howToAccess": "Visit teladoc.com/bcbstx or call 800-835-2362."
+        },
+        {
+          "resourceName": "Livongo by Teladoc Health - Diabetes",
+          "resourceType": "program",
+          "description": "Sign up and receive a welcome kit within 3-5 days. The program offers unlimited test strips, connection to a blood glucose meter, personalized insights, and expert coaching.",
+          "cost": null,
+          "phone": "800-945-4355",
+          "website": "join.livongo.com/BCBSTX/hi",
+          "howToAccess": "Registration code: BCBSTX."
+        },
+        {
+          "resourceName": "Livongo by Teladoc Health - Hypertension",
+          "resourceType": "program",
+          "description": "Resources are available to help you easily manage high blood pressure. The program offers technology, insights and experts to help you stay on track. You can monitor your numbers, get personalized tips after every check, receive reminders, send data directly to your doctor, and receive customized reports.",
+          "cost": null,
+          "phone": "800-945-4355",
+          "website": "ready.livongo.com/TXHTN",
+          "howToAccess": "Registration code: TXHTN."
+        },
+        {
+          "resourceName": "Wondr Health",
+          "resourceType": "program",
+          "description": "A skills-based digital weight loss program that teaches you how to enjoy the foods you love to improve your overall health without having to count calories.",
+          "cost": null,
+          "phone": null,
+          "website": "wondrhealth.com/Lhoist",
+          "howToAccess": "A BMI of 25 or higher is encouraged to participate in the program."
+        },
+        {
+          "resourceName": "Maven",
+          "resourceType": "virtual health platform",
+          "description": "A virtual health platform to help you and your family navigate maternity and newborn care, parenting and pediatrics, menopause and midlife health, and more. Maven includes 24/7 support from a personal care team, unlimited video visits, and helpful articles, videos, and classes.",
+          "cost": null,
+          "phone": null,
+          "website": "mavenclinic.com/join/benefit",
+          "howToAccess": null
+        },
+        {
+          "resourceName": "FlexAccess",
+          "resourceType": "drug assistance program",
+          "description": "A program that helps you find cost assistance (coupon) programs to help cover the cost of your medicine. With FlexAccess, your cost share for your medicine(s) could be reduced.",
+          "cost": null,
+          "phone": "",
+          "website": "",
+          "howToAccess": "Please call 888-302-3618, Monday-Friday, 7:00am-7:00pm Central Time, to be led through the enrollment process."
+        }
+      ],
+      "surchargeRules": [
+        {
+          "surchargeName": "Tobacco user surcharge",
+          "definition": "tobacco user surcharge",
+          "amount": "$600 per year",
+          "avoidanceRequirement": "Complete the tobacco affidavit in Workday during the annual benefits open enrollment period, or complete the Tobacco Cessation program offered through BCBS.",
+          "deadline": "2027 open enrollment period"
+        }
+      ],
+      "sections": [
+        {
+          "heading": "Medical Premiums",
+          "body": "Premium contributions for medical are deducted from your paycheck on a pre-tax basis. Your level of coverage determines your biweekly contributions.",
+          "bullets": null,
+          "sourcePage": 11
+        },
+        {
+          "heading": "How to Find a Provider",
+          "body": "Visit www.bcbstx.com or call Customer Care at 888-423-5475 for a list of BCBSTX network providers.",
+          "bullets": null,
+          "sourcePage": 11
+        },
+        {
+          "heading": "Healthcare Cost Transparency",
+          "body": "There are so many different providers and varying costs for healthcare services — how do you choose? Online services called healthcare cost transparency tools can help. Available through most health insurance carriers, these tools allow you to compare costs for services, from prescriptions to major surgeries, to make your choices simpler. Visit www.bcbstx.com to learn more.",
+          "bullets": null,
+          "sourcePage": 13
+        },
+        {
+          "heading": "How to Pick a Plan",
+          "body": "What plan is right for you? Consider any medical needs you foresee for the upcoming plan year, your overall health, and any medications you currently take. Keep in mind that the annual out-of-pocket maximum is higher on the PPO than the HDHP.",
+          "bullets": [
+            "PPO: You’ll pay more in premiums, but perhaps less at the time of service.",
+            "PPO: You can choose from a network of providers who offer a fixed copay for services.",
+            "PPO: If you expect to need more medical care this year or you have a chronic illness, the PPO may be the right choice for you to ensure your healthcare needs are covered.",
+            "HDHP: You’ll pay less in premiums.",
+            "HDHP: You’ll pay for the full cost of non-preventive medical services until you reach your deductible.",
+            "HDHP: You may also use your Health Savings Account (HSA) to pay for Healthcare expenses.",
+            "HDHP: If you expect to mostly use preventive care (which is covered), this plan could be for you."
+          ],
+          "sourcePage": 14
+        },
+        {
+          "heading": "Urgent Care Center",
+          "body": "You need care quickly, but it is not a true emergency. Urgent care centers offer treatment for non-life-threatening injuries or illnesses.",
+          "bullets": [
+            "Strains, sprains",
+            "Minor broken bones (e.g., finger)",
+            "Minor infections",
+            "Minor burns",
+            "X-rays",
+            "Often requires a copay and/or coinsurance usually higher than an office visit",
+            "Walk-in patients welcome, but waiting periods may be longer (urgency decides order)"
+          ],
+          "sourcePage": 17
+        },
+        {
+          "heading": "Emergency Room",
+          "body": "You need immediate treatment for a serious life-threatening condition. If a situation seems life-threatening, call 911 or your local emergency number right away.",
+          "bullets": [
+            "Heavy bleeding",
+            "Chest pain",
+            "Major burns",
+            "Spinal injuries",
+            "Severe head injury",
+            "Broken bones",
+            "Often requires a much higher copay and/or coinsurance",
+            "Open 24/7, but waiting periods may be longer because patients with life-threatening emergencies will be treated first",
+            "Ambulance charges, if applicable, will be separate and may not be in-network"
+          ],
+          "sourcePage": 17
+        },
+        {
+          "heading": "Prescription Drug Coverage for Medical Plans",
+          "body": "Our Prescription Drug Program is coordinated through BCBSTX. That means you will only have one ID card for both medical care and prescriptions. Information on your benefits coverage and a list of network pharmacies is available online at www.bcbstx.com or by calling the Health Advocate number on your ID card. Your cost is determined by the tier assigned to the prescription drug product. Products are assigned as Generic, Preferred, Non-Preferred, or Specialty.",
+          "bullets": null,
+          "sourcePage": 18
+        },
+        {
+          "heading": "Generic Drugs",
+          "body": "Generic drugs are versions of brand-name drugs with the exact same dosage, intended use, side effects, route of administration, risks, safety, and strength. Because they are the same medicine, generic drugs are just as effective as the brand names, and they undergo the same rigid FDA standards. But generic versions cost 80% to 85% less on average than the brand-name equivalent. To find out if there is a generic equivalent for your brand-name drug, visit www.fda.gov.",
+          "bullets": [
+            "Apps like GoodRx and RxSaver let you compare prices of prescription drugs and find possible discounts.",
+            "These discounts can’t be combined with your benefit plan’s coverage.",
+            "If you choose to use a discount card from an app such as GoodRx or RxSaver, the amount you pay will not count toward your deductible or out-of-pocket maximum under the benefit plan."
+          ],
+          "sourcePage": 18
+        },
+        {
+          "heading": "Are your prescription medicines covered?",
+          "body": "With your BCBSTX plan, your drug list is called Topaz. When you use a drug on your drug list, your copay/insurance (what you pay out-of-pocket) will usually be lower. You can still fill prescriptions for drugs that are not on your drug list, but you will pay more.",
+          "bullets": null,
+          "sourcePage": 18
+        },
+        {
+          "heading": "How to find a drug on the drug list that’s right for you",
+          "body": null,
+          "bullets": [
+            "Visit MyPrime.com and sign in — or register if you don’t already have an account.",
+            "Select Find Medicines to see if your medicine is covered.",
+            "If your medicine isn’t covered, talk to your doctor about therapeutic alternatives. Your doctor can also request a coverage exception from BCBSTX (unless you have a benefit exclusion).",
+            "If you have questions about your pharmacy benefit, please call the toll-free number listed on your member ID card."
+          ],
+          "sourcePage": 18
+        },
+        {
+          "heading": "Preventive Drugs",
+          "body": "Affordable Care Act (ACA) preventive drugs are covered at 100%. Call the BCBS Health Advocate to find out what drugs are covered at 100%.",
+          "bullets": null,
+          "sourcePage": 19
+        }
+      ],
+      "tables": null
+    },
+    "wellness": {
+      "chapterKey": "wellness",
+      "chapterTitle": "Wellness",
+      "chapterSubtitle": null,
+      "siteGroup": null,
+      "summary": "Go Wellbeing is Lhoist North America's confidential wellness program. Employees can earn a $600 annual wellbeing incentive by completing one annual physical.",
+      "sourcePages": [
+        9,
+        10,
+        36
+      ],
+      "programName": "GO Wellbeing",
+      "incentiveAmount": "$600 per year effective 1/1/2027",
+      "incentiveFrequency": "Biweekly",
+      "requirements": [
+        "One preventive care visit in person with your Primary Care Physician or virtually through Teladoc."
+      ],
+      "spouseRequirement": null,
+      "deadlines": null,
+      "submissionMethod": null,
+      "submissionSteps": null,
+      "activities": null,
+      "confidentialityNote": "\n",
+      "reasonableAccommodationContact": "800-286-0134",
+      "sections": [
+        {
+          "heading": "Program Overview",
+          "body": "Earn GO Points through GO Wellbeing (formerly Well onTarget) by participating in and completing healthy activities. Once earned, points can be redeemed in the online shopping mall for rewards.",
+          "bullets": null,
+          "sourcePage": 9
+        },
+        {
+          "heading": "Wellness Incentive",
+          "body": "Preventive care is essential to your health. To encourage this, Lhoist North America provides a premium incentive when you complete an annual physical with a primary care physician (PCP). You may complete your annual physical in person with your PCP or virtually via Teladoc. The Teladoc virtual option can be accessed at teladoc.com/bcbstx or 800-835-2362. Your individual results are confidential. Lhoist North America does not have access to this private health information. As a new hire, you will receive the wellness incentive for the applicable plan year. In order to receive the wellness incentive for the following year, you must complete the wellness requirements moving forward. \n \n You could also be eligible for other incentives. Employees who are unable to meet the requirements for this wellness incentive might qualify for an alternate opportunity (or their physician may recommend one) that would allow them to qualify for the reduced medical premium. \n \n The Lhoist North America statistics referenced in this communication are aggregate. Personal health information is always treated privately.",
+          "bullets": null,
+          "sourcePage": 9
+        },
+        {
+          "heading": "Tobacco User Surcharge",
+          "body": "Lhoist North America has a tobacco user surcharge to help control employee medical premium costs. To avoid the 2027 tobacco surcharge of $600 per year, you must complete the tobacco affidavit in [Workday](https://wd3-identity.myworkday.com/wday/authgwy/lhoist/upc/login) during the annual benefits open enrollment period. If you are a tobacco user, you can still avoid the surcharge by completing the Tobacco Cessation program offered through BCBS.",
+          "bullets": null,
+          "sourcePage": 9
+        },
+        {
+          "heading": "Schedule Your Free Financial Wellness Consultation",
+          "body": "Everyone deserves a financially healthy future. That's why Lhoist North America offers free access to a personal Financial Wellness Consultant from our retirement advisor, Creative Planning. All discussions are confidential, and no information will be shared with Lhoist.",
+          "bullets": null,
+          "sourcePage": 36
+        },
+        {
+          "heading": "How it Works",
+          "body": "Book your one-on-one appointment at a time that works best for you. Before you meet, consider gathering statements or usernames and passwords for key financial accounts (e.g. your checking/ savings account, credit cards, student loans, investments, 401(k)s, IRAs, 403(b)s, and insurance policies). It can be helpful to have a Benefits Summary of the benefits you've enrolled in, too.",
+          "bullets": null,
+          "sourcePage": 36
+        },
+        {
+          "heading": "Financial Foundations",
+          "body": null,
+          "bullets": [
+            "Budgeting",
+            "Emergency savings",
+            "Cashflow priorities"
+          ],
+          "sourcePage": 36
+        },
+        {
+          "heading": "Debt Management",
+          "body": null,
+          "bullets": [
+            "Credit scores",
+            "Debt reduction strategies",
+            "Student loan options"
+          ],
+          "sourcePage": 36
+        },
+        {
+          "heading": "Benefits Optimization",
+          "body": null,
+          "bullets": [
+            "Insurance coverage",
+            "Tax reduction options (Roths, HSAs, FSAs)",
+            "Retirement readiness",
+            "Social Security and Medicare"
+          ],
+          "sourcePage": 36
+        },
+        {
+          "heading": "Wealth Building",
+          "body": null,
+          "bullets": [
+            "Investing",
+            "Tax efficiency",
+            "Estate planning",
+            "Life insurance"
+          ],
+          "sourcePage": 36
+        },
+        {
+          "heading": "Schedule a meeting",
+          "body": "To schedule a meeting with your Financial Wellness Consultant, Claudia Nybo, scan the QR code, email claudia.nybo@creativeplanning.com, or call 512-537-4997.",
+          "bullets": null,
+          "sourcePage": 36
+        }
+      ],
+      "tables": null
+    },
+    "dentalPlans": {
+      "chapterKey": "dentalPlans",
+      "chapterTitle": "Dental Benefits",
+      "chapterSubtitle": null,
+      "siteGroup": "dental",
+      "summary": "Lhoist North America offers Delta Dental PPO coverage with biweekly pre-tax premiums and in-network and out-of-network benefit levels.",
+      "sourcePages": [
+        24,
+        25
+      ],
+      "plans": [
+        {
+          "planKey": "ppo",
+          "planName": "PPO",
+          "carrier": "Delta Dental",
+          "planType": "PPO",
+          "hasOutOfNetworkCoverage": true,
+          "planDescription": "Dental premium contributions are deducted from your paycheck on a pre-tax basis. Your tier of coverage determines your biweekly premium.",
+          "coverageTables": [
+            {
+              "tableTitle": "Dental Coverage Details",
+              "columnLabels": [
+                "In-Network",
+                "Out-of-Network"
+              ],
+              "rows": [
+                {
+                  "rowLabel": "Annual Deductible - Individual",
+                  "cells": [
+                    {
+                      "columnLabel": "In-Network",
+                      "value": "$50"
+                    },
+                    {
+                      "columnLabel": "Out-of-Network",
+                      "value": "$50"
+                    }
+                  ],
+                  "rowFootnote": null
+                },
+                {
+                  "rowLabel": "Annual Deductible - Family",
+                  "cells": [
+                    {
+                      "columnLabel": "In-Network",
+                      "value": "$150"
+                    },
+                    {
+                      "columnLabel": "Out-of-Network",
+                      "value": "$150"
+                    }
+                  ],
+                  "rowFootnote": null
+                },
+                {
+                  "rowLabel": "Annual Maximum - Per Person",
+                  "cells": [
+                    {
+                      "columnLabel": "In-Network",
+                      "value": "$2,000"
+                    },
+                    {
+                      "columnLabel": "Out-of-Network",
+                      "value": "$2,000"
+                    }
+                  ],
+                  "rowFootnote": null
+                },
+                {
+                  "rowLabel": "Preventive Services",
+                  "cells": [
+                    {
+                      "columnLabel": "In-Network",
+                      "value": "100%"
+                    },
+                    {
+                      "columnLabel": "Out-of-Network",
+                      "value": "100%"
+                    }
+                  ],
+                  "rowFootnote": null
+                },
+                {
+                  "rowLabel": "Basic Services",
+                  "cells": [
+                    {
+                      "columnLabel": "In-Network",
+                      "value": "80%*"
+                    },
+                    {
+                      "columnLabel": "Out-of-Network",
+                      "value": "80%*"
+                    }
+                  ],
+                  "rowFootnote": null
+                },
+                {
+                  "rowLabel": "Major Services",
+                  "cells": [
+                    {
+                      "columnLabel": "In-Network",
+                      "value": "50%*"
+                    },
+                    {
+                      "columnLabel": "Out-of-Network",
+                      "value": "50%*"
+                    }
+                  ],
+                  "rowFootnote": null
+                },
+                {
+                  "rowLabel": "Orthodontics Dependent Child(ren) Only – Up to Age 20",
+                  "cells": [
+                    {
+                      "columnLabel": "In-Network",
+                      "value": "50%"
+                    },
+                    {
+                      "columnLabel": "Out-of-Network",
+                      "value": "50%"
+                    }
+                  ],
+                  "rowFootnote": null
+                },
+                {
+                  "rowLabel": "Orthodontic Lifetime Maximum",
+                  "cells": [
+                    {
+                      "columnLabel": "In-Network",
+                      "value": "$2,000"
+                    },
+                    {
+                      "columnLabel": "Out-of-Network",
+                      "value": "$2,000"
+                    }
+                  ],
+                  "rowFootnote": null
+                }
+              ],
+              "footnotes": [
+                "*After deductible"
+              ],
+              "sourcePage": 24
+            }
+          ],
+          "servicesIncluded": null,
+          "orthodonticsCoverage": null,
+          "orthodonticLifetimeMax": null,
+          "premiums": {
+            "frequency": "Biweekly contributions",
+            "costColumns": [
+              "Biweekly Contributions"
+            ],
+            "tiers": [
+              {
+                "tierLabel": "Employee Only",
+                "costs": [
+                  {
+                    "columnLabel": "Biweekly Contributions",
+                    "value": "$3.52"
+                  }
+                ]
+              },
+              {
+                "tierLabel": "Employee + Spouse",
+                "costs": [
+                  {
+                    "columnLabel": "Biweekly Contributions",
+                    "value": "$7.43"
+                  }
+                ]
+              },
+              {
+                "tierLabel": "Employee + Child(ren)",
+                "costs": [
+                  {
+                    "columnLabel": "Biweekly Contributions",
+                    "value": "$6.02"
+                  }
+                ]
+              },
+              {
+                "tierLabel": "Employee + Family",
+                "costs": [
+                  {
+                    "columnLabel": "Biweekly Contributions",
+                    "value": "$11.04"
+                  }
+                ]
+              }
+            ],
+            "footnotes": null,
+            "sourcePage": 24
+          },
+          "footnotes": null
+        }
+      ],
+      "providerLookup": null,
+      "sections": [
+        {
+          "heading": "Stay In-Network",
+          "body": "If your dentist doesn’t participate in your plan’s network, your out-of-pocket costs will be higher, and you are subject to any charges beyond the Reasonable and Customary (R&C). To find a network dentist, visit Delta Dental at www.deltadentalins.com.",
+          "bullets": null,
+          "sourcePage": 24
+        },
+        {
+          "heading": "Note",
+          "body": "Oral health is linked to your overall health - keeping your mouth healthy can protect you from cardiovascular disease, pregnancy complications, and pneumonia.",
+          "bullets": null,
+          "sourcePage": 25
+        }
+      ],
+      "tables": null
+    },
+    "visionPlans": {
+      "chapterKey": "visionPlans",
+      "chapterTitle": "Vision Benefits",
+      "chapterSubtitle": null,
+      "siteGroup": "vision",
+      "summary": "Lhoist North America provides vision coverage through VSP Enhanced Advantage Base and Buy-Up plans, with biweekly pre-tax premiums, in-network and out-of-network benefits, and VSP LightCare availability.",
+      "sourcePages": [
+        26
+      ],
+      "plans": [
+        {
+          "planKey": "enhancedAdvantageBasePlan",
+          "planName": "Enhanced Advantage Base Plan",
+          "carrier": "VSP",
+          "hasOutOfNetworkCoverage": true,
+          "planDescription": null,
+          "coverageTables": [
+            {
+              "tableTitle": "Vision Coverage Details",
+              "columnLabels": [
+                "In-Network",
+                "Out-of-Network",
+                "Frequency"
+              ],
+              "rows": [
+                {
+                  "rowLabel": "Exams ",
+                  "cells": [
+                    {
+                      "columnLabel": "In-Network",
+                      "value": "$10"
+                    },
+                    {
+                      "columnLabel": "Out-of-Network",
+                      "value": "Up to $50"
+                    },
+                    {
+                      "columnLabel": "Frequency",
+                      "value": "Calendar year"
+                    }
+                  ],
+                  "rowFootnote": null
+                },
+                {
+                  "rowLabel": "Lenses ",
+                  "cells": [
+                    {
+                      "columnLabel": "In-Network",
+                      "value": "$10"
+                    },
+                    {
+                      "columnLabel": "Out-of-Network",
+                      "value": "Up to $50"
+                    },
+                    {
+                      "columnLabel": "Frequency",
+                      "value": "Calendar year"
+                    }
+                  ],
+                  "rowFootnote": null
+                },
+                {
+                  "rowLabel": "Lenses - Bifocal",
+                  "cells": [
+                    {
+                      "columnLabel": "Out-of-Network",
+                      "value": "Up to $75"
+                    }
+                  ],
+                  "rowFootnote": null
+                },
+                {
+                  "rowLabel": "Lenses - Trifocal",
+                  "cells": [
+                    {
+                      "columnLabel": "Out-of-Network",
+                      "value": "Up to $100"
+                    }
+                  ],
+                  "rowFootnote": null
+                },
+                {
+                  "rowLabel": "Lenses - Progressive**",
+                  "cells": [
+                    {
+                      "columnLabel": "Out-of-Network",
+                      "value": "Up to $75"
+                    }
+                  ],
+                  "rowFootnote": null
+                },
+                {
+                  "rowLabel": "Frames ",
+                  "cells": [
+                    {
+                      "columnLabel": "In-Network",
+                      "value": "$150 allowance, 20% off balance"
+                    },
+                    {
+                      "columnLabel": "Out-of-Network",
+                      "value": "Up to $70"
+                    },
+                    {
+                      "columnLabel": "Frequency",
+                      "value": "Calendar year"
+                    }
+                  ],
+                  "rowFootnote": null
+                },
+                {
+                  "rowLabel": "Contacts*",
+                  "cells": [
+                    {
+                      "columnLabel": "In-Network",
+                      "value": "$150 allowance for contacts; 15% off contact lens exam, not to exceed $60"
+                    },
+                    {
+                      "columnLabel": "Out-of-Network",
+                      "value": "Up to $105"
+                    },
+                    {
+                      "columnLabel": "Frequency",
+                      "value": "Calendar year"
+                    }
+                  ],
+                  "rowFootnote": null
+                }
+              ],
+              "footnotes": [
+                "*Fitting and Evaluation fee applied to contact lens allowance",
+                "**Enhanced Advantage Base Plan covers Standard Progressive lenses only. Enhanced Advantage Buy-Up Plan covers all Progressive lenses."
+              ],
+              "sourcePage": 26
+            }
+          ],
+          "serviceFrequencies": null,
+          "allowanceNotes": null,
+          "premiums": {
+            "frequency": "Biweekly contributions",
+            "costColumns": [
+              "Biweekly Contributions"
+            ],
+            "tiers": [
+              {
+                "tierLabel": "Employee Only",
+                "costs": [
+                  {
+                    "columnLabel": "Biweekly Contributions",
+                    "value": "$0.97"
+                  }
+                ]
+              },
+              {
+                "tierLabel": "Employee + Spouse",
+                "costs": [
+                  {
+                    "columnLabel": "Biweekly Contributions",
+                    "value": "$1.95"
+                  }
+                ]
+              },
+              {
+                "tierLabel": "Employee + Child(ren)",
+                "costs": [
+                  {
+                    "columnLabel": "Biweekly Contributions",
+                    "value": "$2.09"
+                  }
+                ]
+              },
+              {
+                "tierLabel": "Employee + Family",
+                "costs": [
+                  {
+                    "columnLabel": "Biweekly Contributions",
+                    "value": "$3.34"
+                  }
+                ]
+              }
+            ],
+            "footnotes": null,
+            "sourcePage": 26
+          },
+          "footnotes": null
+        },
+        {
+          "planKey": "enhancedAdvantageBuyUpPlan",
+          "planName": "Enhanced Advantage Buy-Up Plan",
+          "carrier": "VSP",
+          "hasOutOfNetworkCoverage": true,
+          "planDescription": null,
+          "coverageTables": [
+            {
+              "tableTitle": "Vision Coverage Details",
+              "columnLabels": [
+                "In-Network",
+                "Out-of-Network",
+                "Frequency"
+              ],
+              "rows": [
+                {
+                  "rowLabel": "Exams ",
+                  "cells": [
+                    {
+                      "columnLabel": "In-Network",
+                      "value": "$10"
+                    },
+                    {
+                      "columnLabel": "Out-of-Network",
+                      "value": "Up to $50"
+                    },
+                    {
+                      "columnLabel": "Frequency",
+                      "value": "Calendar year"
+                    }
+                  ],
+                  "rowFootnote": null
+                },
+                {
+                  "rowLabel": "Lenses ",
+                  "cells": [
+                    {
+                      "columnLabel": "In-Network",
+                      "value": "$10"
+                    },
+                    {
+                      "columnLabel": "Out-of-Network",
+                      "value": "Up to $50"
+                    },
+                    {
+                      "columnLabel": "Frequency",
+                      "value": "Calendar year"
+                    }
+                  ],
+                  "rowFootnote": null
+                },
+                {
+                  "rowLabel": "Lenses - Bifocal",
+                  "cells": [
+                    {
+                      "columnLabel": "In-Network",
+                      "value": "$10"
+                    },
+                    {
+                      "columnLabel": "Out-of-Network",
+                      "value": "Up to $75"
+                    }
+                  ],
+                  "rowFootnote": null
+                },
+                {
+                  "rowLabel": "Lenses - Trifocal",
+                  "cells": [
+                    {
+                      "columnLabel": "In-Network",
+                      "value": "$10"
+                    },
+                    {
+                      "columnLabel": "Out-of-Network",
+                      "value": "Up to $100"
+                    }
+                  ],
+                  "rowFootnote": null
+                },
+                {
+                  "rowLabel": "Lenses - Progressive**",
+                  "cells": [
+                    {
+                      "columnLabel": "In-Network",
+                      "value": "$50"
+                    },
+                    {
+                      "columnLabel": "Out-of-Network",
+                      "value": "Up to $75"
+                    }
+                  ],
+                  "rowFootnote": null
+                },
+                {
+                  "rowLabel": "Frames ",
+                  "cells": [
+                    {
+                      "columnLabel": "In-Network",
+                      "value": "$150 allowance, 20% off balance"
+                    },
+                    {
+                      "columnLabel": "Out-of-Network",
+                      "value": "Up to $70"
+                    },
+                    {
+                      "columnLabel": "Frequency",
+                      "value": "Calendar year"
+                    }
+                  ],
+                  "rowFootnote": null
+                },
+                {
+                  "rowLabel": "Contacts*",
+                  "cells": [
+                    {
+                      "columnLabel": "In-Network",
+                      "value": "$150 allowance for contacts; 15% off contact lens exam, not to exceed $60"
+                    },
+                    {
+                      "columnLabel": "Out-of-Network",
+                      "value": "Up to $105"
+                    },
+                    {
+                      "columnLabel": "Frequency",
+                      "value": "Calendar year"
+                    }
+                  ],
+                  "rowFootnote": null
+                }
+              ],
+              "footnotes": [
+                "*Fitting and Evaluation fee applied to contact lens allowance",
+                "**Enhanced Advantage Base Plan covers Standard Progressive lenses only. Enhanced Advantage Buy-Up Plan covers all Progressive lenses."
+              ],
+              "sourcePage": 26
+            }
+          ],
+          "serviceFrequencies": null,
+          "allowanceNotes": null,
+          "premiums": {
+            "frequency": "Biweekly contributions",
+            "costColumns": [
+              "Biweekly Contributions"
+            ],
+            "tiers": [
+              {
+                "tierLabel": "Employee Only",
+                "costs": [
+                  {
+                    "columnLabel": "Biweekly Contributions",
+                    "value": "$2.14"
+                  }
+                ]
+              },
+              {
+                "tierLabel": "Employee + Spouse",
+                "costs": [
+                  {
+                    "columnLabel": "Biweekly Contributions",
+                    "value": "$3.73"
+                  }
+                ]
+              },
+              {
+                "tierLabel": "Employee + Child(ren)",
+                "costs": [
+                  {
+                    "columnLabel": "Biweekly Contributions",
+                    "value": "$3.99"
+                  }
+                ]
+              },
+              {
+                "tierLabel": "Employee + Family",
+                "costs": [
+                  {
+                    "columnLabel": "Biweekly Contributions",
+                    "value": "$6.37"
+                  }
+                ]
+              }
+            ],
+            "footnotes": null,
+            "sourcePage": 26
+          },
+          "footnotes": null
+        }
+      ],
+      "providerLookup": null,
+      "sections": [
+        {
+          "heading": "Vision Plan Summary",
+          "body": "VSP LightCare is available for both Enhanced Advantage Plans. With VSP LightCare, you can use your frame and lens benefit to get non-prescription eyewear from your [VSP](https://www.vsp.com/) network doctor. Each covered member receives an additional pair of eyewear per year. This means two frames, two contacts, OR one frame and one contacts.",
+          "bullets": null,
+          "sourcePage": 26
+        },
+        {
+          "heading": "Note",
+          "body": "Early detection of vision conditions like diabetic retinopathy leads to more effective treatment and cost savings.",
+          "bullets": null,
+          "sourcePage": 26
+        }
+      ],
+      "tables": null
+    },
+    "spendingAccounts": {
+      "chapterKey": "spendingAccounts",
+      "chapterTitle": "FSA & HSA",
+      "chapterSubtitle": "",
+      "siteGroup": "spendingAccounts",
+      "summary": "Save tax-advantaged dollars to help pay for qualifying medical, dental, vision, and dependent care expenses.",
+      "sourcePages": [
+        21,
+        22,
+        23,
+        24
+      ],
+      "layoutHint": "tabbed",
+      "tabOrder": [
+        "hsa",
+        "healthcareFsa",
+        "limitedPurposeFsa",
+        "dependentCareFsa"
+      ],
+      "accounts": [
+        {
+          "accountKey": "hsa",
+          "accountType": "Health Savings Account (HSA)",
+          "administrator": "HSA Bank",
+          "eligibility": "You must be enrolled in an HSA-eligible High Deductible Health Plan. You are eligible to contribute to an HSA if: you are enrolled in an HSA-eligible High Deductible Health Plan; you are not covered by your spouse’s or parent’s non-HDHP; you or your spouse does not have a Healthcare Flexible Spending Account or Health Reimbursement Account; you are not eligible to be claimed as a dependent on someone else’s tax return; you are not enrolled in Medicare or TRICARE; you have not received Department of Veterans Affairs medical benefits in the past 90 days for non-service-related care.",
+          "fundingSource": "both",
+          "employerContribution": [
+            {
+              "tierLabel": "Employee",
+              "amount": "$550"
+            },
+            {
+              "tierLabel": "Family",
+              "amount": "$1,100"
+            }
+          ],
+          "contributionLimits": [
+            {
+              "limitLabel": "Individual",
+              "amount": "$4,500",
+              "planYear": "2027"
+            },
+            {
+              "limitLabel": "Family",
+              "amount": "$9,000",
+              "planYear": "2027"
+            },
+            {
+              "limitLabel": "Catch-up (ages 55+)",
+              "amount": "$1,000",
+              "planYear": "2027"
+            }
+          ],
+          "rolloverRule": "Unused funds roll over annually.",
+          "forfeitureRule": "There are no vesting requirements (you own all contributed HSA funds immediately) or forfeiture provisions (you keep all HSA funds whether you leave the company or retire).",
+          "claimSubmissionDeadline": "N/A; HSA funds are accessed with a debit card or reimbursement.",
+          "eligibleExpenses": [
+            "doctors’ visits",
+            "eye exams",
+            "prescription expenses",
+            "laser eye surgery",
+            "menstrual products",
+            "PPE",
+            "over-the-counter medications"
+          ],
+          "requiredDocumentation": [
+            "\n",
+            "\n"
+          ],
+          "portabilityNote": "HSA funds are portable if you change plans or jobs.",
+          "taxAdvantages": "HSA contributions are made through payroll deduction on a pre-tax basis when you open an account with HSA Bank. The money in your HSA (including interest and investment earnings) grows tax-free. When the funds are used for qualified medical expenses, they are spent tax-free.",
+          "claimsPortal": "HSA Bank",
+          "phone": "null",
+          "restrictions": [
+            "\n",
+            "If HSA funds are used for purposes other than qualified medical expenses and you are younger than age 65, you must pay federal income tax on the amount withdrawn, plus a 20% penalty tax.",
+            "If you contribute over the annual IRS limit, the excess may be removed or left in the HSA and taxed with a 6% excise tax."
+          ]
+        },
+        {
+          "accountKey": "healthcareFsa",
+          "accountType": "Healthcare Flexible Spending Account",
+          "administrator": "Navia Benefit Solutions",
+          "eligibility": "Available to employees who want to contribute up to the annual IRS maximum for qualified medical expenses.",
+          "fundingSource": "employee pre-tax",
+          "rolloverRule": "Up to $680 of unused funds may be rolled over to the following year to use.",
+          "forfeitureRule": "Use it or lose it - any unused funds will be forfeited.",
+          "claimSubmissionDeadline": "You have ninety (90) days following the end of the plan year to submit eligible FSA claims for reimbursement.",
+          "eligibleExpenses": [
+            "deductibles",
+            "copays",
+            "coinsurance",
+            "menstrual products",
+            "PPE",
+            "over-the-counter medications"
+          ],
+          "requiredDocumentation": [
+            "Claims require the required documentation; save receipts for your records."
+          ],
+          "portabilityNote": "Not stated.",
+          "taxAdvantages": "You can contribute with pre-tax dollars, which reduces your taxable income and increases your take-home pay.",
+          "claimsPortal": "Navia Benefit Solutions",
+          "phone": "null",
+          "restrictions": [
+            "Funds cannot be transferred between FSAs.",
+            "You cannot change your FSA election in the middle of the plan year without a Qualifying Life Event.",
+            "Those considered highly compensated employees may have different FSA contribution limits."
+          ]
+        },
+        {
+          "accountKey": "limitedPurposeFsa",
+          "accountType": "Limited Purpose Flexible Spending Account",
+          "administrator": "Navia Benefit Solutions",
+          "eligibility": "Works with a Health Savings Account (HSA) and allows reimbursement of eligible dental and vision expenses.",
+          "fundingSource": "employee pre-tax",
+          "rolloverRule": "Up to $680 of unused funds may be rolled over to the following year to use.",
+          "forfeitureRule": "Use it or lose it - any unused funds will be forfeited.",
+          "claimSubmissionDeadline": "You have ninety (90) days following the end of the plan year to submit eligible FSA claims for reimbursement.",
+          "eligibleExpenses": [
+            "dental expenses",
+            "vision expenses"
+          ],
+          "requiredDocumentation": [
+            "Claims require the required documentation; save receipts for your records."
+          ],
+          "portabilityNote": "\n",
+          "taxAdvantages": "You can contribute with pre-tax dollars, which reduces your taxable income and increases your take-home pay.",
+          "claimsPortal": "Navia Benefit Solutions",
+          "phone": "null",
+          "restrictions": [
+            "Works with an HSA.",
+            "Funds cannot be transferred between FSAs.",
+            "You cannot change your FSA election in the middle of the plan year without a Qualifying Life Event.",
+            "Those considered highly compensated employees may have different FSA contribution limits."
+          ]
+        },
+        {
+          "accountKey": "dependentCareFsa",
+          "accountType": "Dependent Care Flexible Spending Account",
+          "administrator": "Navia Benefit Solutions",
+          "eligibility": "You may opt to participate even if you don’t elect any other benefits. It covers dependent daycare expenses necessary for you and your spouse to work or attend school full time.",
+          "fundingSource": "employee pre-tax",
+          "contributionLimits": [
+            {
+              "limitLabel": "Annual maximum",
+              "amount": "$7,500",
+              "planYear": "2027"
+            }
+          ],
+          "rolloverRule": "\n",
+          "forfeitureRule": "Unlike the Healthcare FSA, reimbursement from your Dependent Care FSA is limited to the total amount that is currently deposited in your account.",
+          "claimSubmissionDeadline": "You have ninety (90) days following the end of the plan year to submit eligible FSA claims for reimbursement.",
+          "eligibleExpenses": [
+            "In-home babysitting services (not provided by a dependent)",
+            "Care of a preschool child by a licensed nursery or daycare provider",
+            "Before- and after-school care",
+            "Day camp",
+            "In-house dependent daycare",
+            "and elder care"
+          ],
+          "ineligibleExpenses": [
+            "Expenses for your domestic partner and your domestic partner’s children may not be reimbursed under the FSA programs."
+          ],
+          "requiredDocumentation": [
+            "You must provide the tax identification number or Social Security number of the party providing care to be reimbursed."
+          ],
+          "portabilityNote": "Not stated.",
+          "taxAdvantages": "Set aside pre-tax funds for care expenses.",
+          "claimsPortal": "Navia Benefit Solutions",
+          "phone": "null",
+          "restrictions": [
+            "Eligible dependents include children under 13 and a spouse or other individual who is physically or mentally incapable of self-care and has the same principal place of residence as the employee for more than half the year.",
+            "Expenses are reimbursable if the provider is not your dependent.",
+            "Domestic partner and domestic partner’s children may not be reimbursed under the FSA programs."
+          ]
+        }
+      ],
+      "comparison": {
+        "tableTitle": "FSA vs HSA",
+        "columnLabels": [
+          "FSA",
+          "HSA"
+        ],
+        "rows": [
+          {
+            "rowLabel": "Ownership",
+            "cells": [
+              {
+                "columnLabel": "FSA",
+                "value": "Your employer owns your FSA. If you leave your employer, you lose access to the account unless you have a COBRA right."
+              },
+              {
+                "columnLabel": "HSA",
+                "value": "You own your HSA. It is a savings account in your name, and you always have access to the funds, even if you change jobs."
+              }
+            ],
+            "rowFootnote": ""
+          },
+          {
+            "rowLabel": "Eligibility & Enrollment",
+            "cells": [
+              {
+                "columnLabel": "FSA",
+                "value": "You can elect a Healthcare FSA even if you waive other coverage. You cannot make changes to your contribution during the Plan Year without a Qualifying Life Event. You cannot be enrolled in both a Healthcare FSA and an HSA."
+              },
+              {
+                "columnLabel": "HSA",
+                "value": "You must be enrolled in a Qualified HDHP to contribute money to your HSA. You cannot be covered by a spouse’s non-High Deductible plan or a spouse’s FSA or enrolled in Medicare or TRICARE. You can change your contribution at any time during the Plan Year."
+              }
+            ],
+            "rowFootnote": ""
+          },
+          {
+            "rowLabel": "Taxation",
+            "cells": [
+              {
+                "columnLabel": "FSA",
+                "value": "FSA contributions are tax-free via payroll deduction. Funds are spent tax-free when used for qualified expenses."
+              },
+              {
+                "columnLabel": "HSA",
+                "value": "HSA contributions are tax-free; the account grows tax-free; and funds are spent tax-free on qualified expenses."
+              }
+            ],
+            "rowFootnote": ""
+          },
+          {
+            "rowLabel": "Contributions",
+            "cells": [
+              {
+                "columnLabel": "FSA",
+                "value": "Participating employees can contribute up to the IRS limit. The 2026 FSA contribution maximum was $3,400. The IRS has not yet announced the 2027 limit. This amount may be increased annually."
+              },
+              {
+                "columnLabel": "HSA",
+                "value": "Both you and your employer can contribute up to $4,500 in 2027 (up to $9,000 for families). Ages 55+ can make an annual $1,000 “catch-up” HSA contribution."
+              }
+            ],
+            "rowFootnote": ""
+          },
+          {
+            "rowLabel": "Payment",
+            "cells": [
+              {
+                "columnLabel": "FSA",
+                "value": "Some plans include an FSA debit card to pay for eligible expenses. If not, you pay up front and submit receipts for reimbursement."
+              },
+              {
+                "columnLabel": "HSA",
+                "value": "Many HSAs include a debit card to pay for qualified expenses directly. Alternatively, you can save funds for future expenses or retirement."
+              }
+            ],
+            "rowFootnote": ""
+          },
+          {
+            "rowLabel": "Rollover or Grace Period",
+            "cells": [
+              {
+                "columnLabel": "FSA",
+                "value": "Any unclaimed funds at the end of the year are forfeited. Exceptions might include an additional 2.5-month grace period for expenses to be incurred and reimbursed, or an allowed rollover amount."
+              },
+              {
+                "columnLabel": "HSA",
+                "value": "HSA funds roll over from year to year. The account is portable and may be used for future qualified expenses — even in retirement years."
+              }
+            ],
+            "rowFootnote": ""
+          },
+          {
+            "rowLabel": "Qualified Expenses",
+            "cells": [
+              {
+                "columnLabel": "FSA",
+                "value": "Physician services, hospital services, prescriptions, menstrual products, PPE, over-the-counter medications, dental care, and vision care. A full list is available at www.irs.gov or [Navia Eligible Expenses website](https://www.naviabenefits.com/participants/resources/expenses/)."
+              },
+              {
+                "columnLabel": "HSA",
+                "value": "Physician services, hospital services, prescriptions, menstrual products, PPE, over-the-counter medications, dental care, vision care, Medicare Part D plans, COBRA premiums, and long-term care premiums. A full list is available at www.irs.gov."
+              }
+            ],
+            "rowFootnote": ""
+          },
+          {
+            "rowLabel": "Other Types",
+            "cells": [
+              {
+                "columnLabel": "FSA",
+                "value": "Dependent Care FSA (pre-tax dollars can be used for elder or child dependent care) and Limited Use FSA (used to pay for eligible dental and vision expenses)."
+              },
+              {
+                "columnLabel": "HSA",
+                "value": "N/A"
+              }
+            ],
+            "rowFootnote": ""
+          }
+        ],
+        "footnotes": [],
+        "sourcePage": 20
+      },
+      "sections": [
+        {
+          "heading": "Health Savings Account",
+          "body": "HSA Bank will issue you a debit card with direct access to your account balance. Use your debit card to pay for qualified medical expenses — no need to submit receipts for reimbursement. Like a regular debit card, you must have a balance in your HSA account to use the card.",
+          "bullets": [
+            "Eligible expenses include doctors’ visits, eye exams, prescription expenses, laser eye surgery, menstrual products, PPE, over-the-counter medications, and more.",
+            "Because HSA funds never expire, contributing your annual maximum to your HSA can help you save to pay for healthcare expenses tax-free after retirement.",
+            "The HSA is established with HSA Bank.",
+            "You may be able to roll over funds from another HSA."
+          ],
+          "sourcePage": 21
+        },
+        {
+          "heading": "You Own Your HSA",
+          "body": "Your HSA is a personal bank account that you own and manage. You decide how much you contribute, when to use the money for medical services and when to reimburse yourself. You can save and roll over HSA funds to the next year if you don’t spend them all in the calendar year. You can even let funds accumulate year over year to use for eligible expenses in retirement. HSA funds are also portable if you change plans or jobs. There are no vesting requirements or forfeiture provisions.",
+          "sourcePage": 22
+        },
+        {
+          "heading": "How to Enroll",
+          "body": "To enroll in Lhoist North America’s HSA, you must elect the HDHP with Lhoist North America. Submit all HSA enrollment materials and choose the amount to contribute on a pre-tax basis. Lhoist North America will establish an HSA account in your name and send in your contribution once bank account information has been provided and verified.",
+          "sourcePage": 22
+        },
+        {
+          "heading": "HSAs and Taxes",
+          "body": "HSA contributions are made through payroll deduction on a pre-tax basis when you open an account with HSA Bank. The money in your HSA (including interest and investment earnings) grows tax-free. When the funds are used for qualified medical expenses, they are spent tax-free. If HSA funds are used for purposes other than qualified medical expenses and you are younger than age 65, you must pay federal income tax on the amount withdrawn, plus a 20% penalty tax.",
+          "sourcePage": 22
+        },
+        {
+          "heading": "HSA Funding Limits",
+          "body": "The IRS places an annual limit on the maximum amount that can be contributed to HSAs. For 2027, contributions (which include any employer contribution) are limited to the following.",
+          "bullets": [
+            "LNA funds an HSA contribution by January 15 to participating employees.",
+            "New Hires will receive a prorated contribution based on hire date.",
+            "HSA contributions over the IRS annual contribution limits are not tax deductible and are generally subject to a 6% excise tax.",
+            "If you’ve contributed too much to your HSA this year, you can remove the excess contributions and the net income attributable to the excess contribution before you file your federal income tax return, or leave the excess contributions in your HSA and pay 6% excise tax on them."
+          ],
+          "sourcePage": 22
+        },
+        {
+          "heading": "Flexible Spending Accounts",
+          "body": "Take control of your spending! A Flexible Spending Account (FSA) is a special tax-free account you put money into to pay for certain out-of-pocket expenses.",
+          "sourcePage": 23
+        },
+        {
+          "heading": "Healthcare Flexible Spending Account",
+          "body": "You can contribute up to the annual IRS maximum for qualified medical expenses with pre-tax dollars, which reduces your taxable income and increases your take-home pay. You can even pay for eligible expenses with an FSA debit card at the same time you receive them — no waiting for reimbursement.",
+          "bullets": [
+            "Up to $680 of unused funds may be rolled over to the following year to use.",
+            "The IRS has not yet announced the 2027 limit."
+          ],
+          "sourcePage": 23
+        },
+        {
+          "heading": "Limited Purpose Flexible Spending Account",
+          "body": "A Limited Purpose Flexible Spending Account works with a Health Savings Account (HSA) and allows for reimbursement of eligible dental and vision expenses.",
+          "bullets": [
+            "Up to $680 of unused funds may be rolled over to the following year to use.",
+            "The IRS has not yet announced the 2027 limit."
+          ],
+          "sourcePage": 23
+        },
+        {
+          "heading": "Dependent Care Flexible Spending Account",
+          "body": "In addition to the Healthcare FSA, you may opt to participate in the Dependent Care FSA — even if you don’t elect any other benefits. Set aside pre-tax funds into a Dependent Care FSA for expenses associated with caring for elderly or child dependents. Unlike the Healthcare FSA, reimbursement from your Dependent Care FSA is limited to the total amount that is currently deposited in your account.",
+          "bullets": [
+            "Eligible dependents include children under 13 and a spouse or other individual who is physically or mentally incapable of self-care and has the same principal place of residence as the employee for more than half the year.",
+            "Expenses are reimbursable if the provider is not your dependent.",
+            "You must provide the tax identification number or Social Security number of the party providing care to be reimbursed.",
+            "Eligible expenses include in-home babysitting services (not provided by a dependent), care of a preschool child by a licensed nursery or daycare provider, before- and after-school care, day camp, and in-house dependent daycare.",
+            "Expenses for your domestic partner and your domestic partner’s children may not be reimbursed under the FSA programs."
+          ],
+          "sourcePage": 23
+        },
+        {
+          "heading": "Using the Account",
+          "body": "Use your FSA debit card at doctor and dentist offices, pharmacies, and vision service providers. If you do not use your FSA debit card, you may submit a claim form along with the required documentation. Contact Navia Benefit Solutions with reimbursement questions. Always save receipts for your records.",
+          "bullets": [
+            "The transaction will be denied if you use the card at an ineligible location.",
+            "FSA debit cards do not remove the IRS regulations for substantiation.",
+            "Without proof an expense was valid, your card could be turned off and the expense deemed taxable."
+          ],
+          "sourcePage": 24
+        },
+        {
+          "heading": "General Rules",
+          "body": "The IRS has the following rules for Healthcare and Dependent Care FSAs: expenses must occur during the 2027 plan year; funds cannot be transferred between FSAs; you cannot participate in a Dependent Care FSA and claim a dependent care tax deduction at the same time; you must use it or lose it; up to $680 may be rolled over to the next plan year at the end of 2027 for Healthcare or Limited Use FSAs; you cannot change your FSA election in the middle of the plan year without a Qualifying Life Event; you have ninety (90) days following the end of the plan year to submit eligible FSA claims for reimbursement; highly compensated employees may have different FSA contribution limits.",
+          "bullets": [
+            "The IRS has not yet announced the 2027 limit."
+          ],
+          "sourcePage": 24
+        }
+      ],
+      "tables": [
+        {
+          "tableTitle": "Annual HSA Funding Limits",
+          "columnLabels": [
+            "ANNUAL HSA FUNDING LIMITS"
+          ],
+          "rows": [
+            {
+              "rowLabel": "Employee",
+              "cells": [
+                {
+                  "columnLabel": "ANNUAL HSA FUNDING LIMITS",
+                  "value": "$4,500"
+                }
+              ],
+              "rowFootnote": ""
+            },
+            {
+              "rowLabel": "Family",
+              "cells": [
+                {
+                  "columnLabel": "ANNUAL HSA FUNDING LIMITS",
+                  "value": "$9,000"
+                }
+              ],
+              "rowFootnote": ""
+            },
+            {
+              "rowLabel": "Catch-up contribution (ages 55+)",
+              "cells": [
+                {
+                  "columnLabel": "ANNUAL HSA FUNDING LIMITS",
+                  "value": "$1,000"
+                }
+              ],
+              "rowFootnote": ""
+            }
+          ],
+          "sourcePage": 22
+        },
+        {
+          "tableTitle": "Annual Employer HSA Contribution",
+          "columnLabels": [
+            "ANNUAL EMPLOYER HSA CONTRIBUTION"
+          ],
+          "rows": [
+            {
+              "rowLabel": "Employee",
+              "cells": [
+                {
+                  "columnLabel": "ANNUAL EMPLOYER HSA CONTRIBUTION",
+                  "value": "$550"
+                }
+              ],
+              "rowFootnote": ""
+            },
+            {
+              "rowLabel": "Family",
+              "cells": [
+                {
+                  "columnLabel": "ANNUAL EMPLOYER HSA CONTRIBUTION",
+                  "value": "$1,100"
+                }
+              ],
+              "rowFootnote": ""
+            }
+          ],
+          "sourcePage": 22
+        }
+      ]
+    },
+    "eap": {
+      "chapterKey": "eap",
+      "chapterTitle": "Employee Assistance Program",
+      "chapterSubtitle": null,
+      "siteGroup": null,
+      "summary": "AllOne Health administers the Employee Assistance Program with confidential, 24/7 access to licensed professionals, resources, and information at no cost.",
+      "sourcePages": [
+        37
+      ],
+      "provider": "AllOne Health",
+      "costToEmployee": "No cost to you",
+      "whoIsCovered": null,
+      "visitsIncluded": null,
+      "confidentialityNote": "All services provided are confidential.",
+      "services": [
+        {
+          "serviceName": "Emotional health and wellbeing",
+          "description": null
+        },
+        {
+          "serviceName": "Alcohol or drug dependency",
+          "description": null
+        },
+        {
+          "serviceName": "Marriage or family problems",
+          "description": null
+        },
+        {
+          "serviceName": "Job pressures",
+          "description": null
+        },
+        {
+          "serviceName": "Stress, anxiety, depression",
+          "description": null
+        },
+        {
+          "serviceName": "Grief and loss",
+          "description": null
+        },
+        {
+          "serviceName": "Financial or legal advice",
+          "description": null
+        }
+      ],
+      "howToAccess": null,
+      "phone": "855-775-4357",
+      "website": "http://allonehealth.com/reliance-matrix",
+      "webLoginCode": "RSLI859",
+      "availability": "24 hours a day, seven days a week",
+      "sections": null,
+      "tables": null
+    },
+    "survivorBenefits": {
+      "chapterKey": "survivorBenefits",
+      "chapterTitle": "Survivor Benefits",
+      "chapterSubtitle": null,
+      "siteGroup": null,
+      "summary": "Basic Life and AD&D coverage is provided through Reliance Matrix, and voluntary employee, spouse, and child life and AD&D options include monthly premium tables.",
+      "sourcePages": [
+        27,
+        28
+      ],
+      "coverages": [
+        {
+          "coverageName": "Basic Life and Accidental Death & Dismemberment Insurance",
+          "carrier": "Reliance Matrix",
+          "paidBy": null,
+          "eligibility": "full-time employee",
+          "benefitAmount": "2x annual base pay",
+          "coverageIncrement": null,
+          "maximumBenefit": "2x annual base pay, up to a maximum of $1,500,000",
+          "guaranteedIssueAmount": null,
+          "evidenceOfInsurabilityThreshold": null,
+          "ageReductionSchedule": null,
+          "notes": "If you are a full-time employee, you automatically receive Life and AD&D insurance even if you waive other coverage."
+        },
+        {
+          "coverageName": "Basic Employee Life/AD&D",
+          "carrier": null,
+          "paidBy": "Lhoist North America",
+          "eligibility": null,
+          "benefitAmount": "2x annual base pay",
+          "coverageIncrement": null,
+          "maximumBenefit": "2x annual base pay to a maximum of $1,500,000",
+          "guaranteedIssueAmount": null,
+          "evidenceOfInsurabilityThreshold": null,
+          "ageReductionSchedule": null,
+          "notes": "Benefits payable: If you die, lose a limb, or suffer paralysis in an accident while covered under the Plan. Evidence of Insurability (EOI) Required: No."
+        },
+        {
+          "coverageName": "Voluntary Employee Life",
+          "carrier": null,
+          "paidBy": "This coverage is available to you on a voluntary basis. You pay full cost.",
+          "eligibility": null,
+          "benefitAmount": "1 to 4 times your annual base pay",
+          "coverageIncrement": null,
+          "maximumBenefit": "$1,500,000 combined with your Basic Term Life coverage amount.",
+          "guaranteedIssueAmount": "$300,000",
+          "evidenceOfInsurabilityThreshold": "Amounts over $300,000",
+          "ageReductionSchedule": null,
+          "notes": "Benefits payable: If you die while covered under the Plan. New Hires: Eligible to elect $300,000 without answering medical questions if enrolling when first eligible. Current Participants: During Annual Enrollment you may increase current coverage amount by 1 times your covered annual earnings, up to a total coverage amount of $300,000 without answering medical questions. Any increase above 1x your covered earnings and/or $300,000 will require EOI."
+        },
+        {
+          "coverageName": "Voluntary Spouse Life",
+          "carrier": null,
+          "paidBy": "This coverage is available to you on a voluntary basis. You pay full cost.",
+          "eligibility": null,
+          "benefitAmount": "$20,000, $50,000 or $75,000",
+          "coverageIncrement": null,
+          "maximumBenefit": "$75,000, not to exceed 100% of your combined Optional Term. You must elect at least 1x covered earnings for yourself to purchase coverage for your spouse.",
+          "guaranteedIssueAmount": "$20,000",
+          "evidenceOfInsurabilityThreshold": "coverage amounts over $20,000",
+          "ageReductionSchedule": null,
+          "notes": "Benefits payable: If your spouse dies while covered under the Plan. Current Employees: EOI is required for all coverage amounts."
+        },
+        {
+          "coverageName": "Voluntary Child Life",
+          "carrier": null,
+          "paidBy": "This coverage is available to you on a voluntary basis. You pay full cost.",
+          "eligibility": null,
+          "benefitAmount": "$10,000",
+          "coverageIncrement": null,
+          "maximumBenefit": "$10,000. You must elect at least 1x covered earnings for yourself to purchase coverage for your dependents.",
+          "guaranteedIssueAmount": null,
+          "evidenceOfInsurabilityThreshold": null,
+          "ageReductionSchedule": null,
+          "notes": "Benefits payable: If your child dies while covered under the Plan. Evidence of Insurability (EOI) Required: No."
+        },
+        {
+          "coverageName": "Voluntary Employee AD&D",
+          "carrier": null,
+          "paidBy": "This coverage is available to you on a voluntary basis. You pay full cost.",
+          "eligibility": null,
+          "benefitAmount": "1 - 4x annual base pay",
+          "coverageIncrement": null,
+          "maximumBenefit": "$1,500,000 combined with your Basic AD&D amount.",
+          "guaranteedIssueAmount": null,
+          "evidenceOfInsurabilityThreshold": null,
+          "ageReductionSchedule": null,
+          "notes": "Benefits payable: If you die, lose a limb, or suffer from paralysis in an accident while covered under the Plan. Evidence of Insurability (EOI) Required: No."
+        },
+        {
+          "coverageName": "Voluntary Spouse AD&D",
+          "carrier": null,
+          "paidBy": "This coverage is available to you on a voluntary basis. You pay full cost.",
+          "eligibility": null,
+          "benefitAmount": "$20,000, $50,000 or $75,000",
+          "coverageIncrement": null,
+          "maximumBenefit": "$75,000",
+          "guaranteedIssueAmount": null,
+          "evidenceOfInsurabilityThreshold": null,
+          "ageReductionSchedule": null,
+          "notes": "Benefits payable: If your spouse dies, loses a limb, or suffers from paralysis in an accident while covered under the Plan. Evidence of Insurability (EOI) Required: No."
+        },
+        {
+          "coverageName": "Voluntary Child AD&D",
+          "carrier": null,
+          "paidBy": "This coverage is available to you on a voluntary basis. You pay full cost.",
+          "eligibility": null,
+          "benefitAmount": "$10,000",
+          "coverageIncrement": null,
+          "maximumBenefit": "$10,000",
+          "guaranteedIssueAmount": null,
+          "evidenceOfInsurabilityThreshold": null,
+          "ageReductionSchedule": null,
+          "notes": "Benefits payable: If your child dies, loses a limb, or suffers from paralysis in an accident while covered under the Plan. Evidence of Insurability (EOI) Required: No."
+        }
+      ],
+      "rateTables": [
+        {
+          "tableTitle": "VOLUNTARY EMPLOYEE LIFE INSURANCE PREMIUM RATES / $1,000 (MONTHLY)",
+          "columnLabels": [
+            "AGE (AS OF JANUARY 1, 2027)",
+            "EMPLOYEE"
+          ],
+          "rows": [
+            {
+              "rowLabel": "0-29",
+              "cells": [
+                {
+                  "columnLabel": "EMPLOYEE",
+                  "value": "$0.070"
+                }
+              ],
+              "rowFootnote": null
+            },
+            {
+              "rowLabel": "30-34",
+              "cells": [
+                {
+                  "columnLabel": "EMPLOYEE",
+                  "value": "$0.080"
+                }
+              ],
+              "rowFootnote": null
+            },
+            {
+              "rowLabel": "35-39",
+              "cells": [
+                {
+                  "columnLabel": "EMPLOYEE",
+                  "value": "$0.097"
+                }
+              ],
+              "rowFootnote": null
+            },
+            {
+              "rowLabel": "40-44",
+              "cells": [
+                {
+                  "columnLabel": "EMPLOYEE",
+                  "value": "$0.150"
+                }
+              ],
+              "rowFootnote": null
+            },
+            {
+              "rowLabel": "45-49",
+              "cells": [
+                {
+                  "columnLabel": "EMPLOYEE",
+                  "value": "$0.246"
+                }
+              ],
+              "rowFootnote": null
+            },
+            {
+              "rowLabel": "50-54",
+              "cells": [
+                {
+                  "columnLabel": "EMPLOYEE",
+                  "value": "$0.414"
+                }
+              ],
+              "rowFootnote": null
+            },
+            {
+              "rowLabel": "55-59",
+              "cells": [
+                {
+                  "columnLabel": "EMPLOYEE",
+                  "value": "$0.642"
+                }
+              ],
+              "rowFootnote": null
+            },
+            {
+              "rowLabel": "60-64",
+              "cells": [
+                {
+                  "columnLabel": "EMPLOYEE",
+                  "value": "$1.000"
+                }
+              ],
+              "rowFootnote": null
+            },
+            {
+              "rowLabel": "65-69",
+              "cells": [
+                {
+                  "columnLabel": "EMPLOYEE",
+                  "value": "$1.808"
+                }
+              ],
+              "rowFootnote": null
+            },
+            {
+              "rowLabel": "70+",
+              "cells": [
+                {
+                  "columnLabel": "EMPLOYEE",
+                  "value": "$2.060"
+                }
+              ],
+              "rowFootnote": null
+            }
+          ],
+          "footnotes": null,
+          "sourcePage": 28
+        },
+        {
+          "tableTitle": "VOLUNTARY SPOUSE LIFE INSURANCE PREMIUM RATES / MONTH",
+          "columnLabels": [
+            "COVERAGE",
+            "SPOUSE RATE"
+          ],
+          "rows": [
+            {
+              "rowLabel": "$20,000",
+              "cells": [
+                {
+                  "columnLabel": "SPOUSE RATE",
+                  "value": "$3.016"
+                }
+              ],
+              "rowFootnote": null
+            },
+            {
+              "rowLabel": "$50,000",
+              "cells": [
+                {
+                  "columnLabel": "SPOUSE RATE",
+                  "value": "$8.880"
+                }
+              ],
+              "rowFootnote": null
+            },
+            {
+              "rowLabel": "$75,000",
+              "cells": [
+                {
+                  "columnLabel": "SPOUSE RATE",
+                  "value": "$13.320"
+                }
+              ],
+              "rowFootnote": null
+            }
+          ],
+          "footnotes": null,
+          "sourcePage": 28
+        },
+        {
+          "tableTitle": "VOLUNTARY AD&D INSURANCE PREMIUM RATES / $1,000 (MONTHLY)",
+          "columnLabels": [
+            "Rate"
+          ],
+          "rows": [
+            {
+              "rowLabel": "Monthly premium rate",
+              "cells": [
+                {
+                  "columnLabel": "Rate",
+                  "value": "$0.048"
+                }
+              ],
+              "rowFootnote": null
+            }
+          ],
+          "footnotes": null,
+          "sourcePage": 28
+        },
+        {
+          "tableTitle": "VOLUNTARY CHILD LIFE INSURANCE PREMIUM RATES / $10,000 (MONTHLY)",
+          "columnLabels": [
+            "Rate"
+          ],
+          "rows": [
+            {
+              "rowLabel": "Monthly premium rate",
+              "cells": [
+                {
+                  "columnLabel": "Rate",
+                  "value": "$1.128"
+                }
+              ],
+              "rowFootnote": null
+            }
+          ],
+          "footnotes": null,
+          "sourcePage": 28
+        }
+      ],
+      "costCalculationFormula": null,
+      "beneficiaryDesignationNotes": null,
+      "sections": [
+        {
+          "heading": "Naming a Beneficiary",
+          "body": "Your beneficiary is the person you designate to receive your Life insurance benefits in the event of your death. This includes any benefits payable under Basic Life. Reliance Matrix Insurance is managing Basic Life and AD&D insurance benefit claims. Name a primary and contingent beneficiary to make your intentions clear. Indicate their full name, address, Social Security number, relationship, date of birth, and distribution percentage. Please note that in most states, benefit payments cannot be made to a minor. If you elect to designate a minor as beneficiary, all proceeds may be held under the beneficiary’s name and will earn interest until the minor reaches age 18. Contact the LNA Benefits Team or your own legal counsel with any questions.",
+          "bullets": null,
+          "sourcePage": 27
+        }
+      ],
+      "tables": null
+    },
+    "supplementalHealth": {
+      "chapterKey": "supplementalHealth",
+      "chapterTitle": "Supplemental Health Benefits",
+      "chapterSubtitle": "\n",
+      "siteGroup": "additional",
+      "summary": "Unum offers supplemental Hospital Indemnity, Critical Illness, and Accident Insurance benefits that provide an added layer of financial protection for you and your family.",
+      "sourcePages": [
+        31,
+        32,
+        33
+      ],
+      "products": [
+        {
+          "productName": "Accident Coverage",
+          "productType": "Accident",
+          "carrier": "Unum",
+          "description": "Accident coverage through Unum provides benefits for you and your covered family member for expenses related to an accidental injury that occurs outside of work. Health insurance helps with medical expenses, but this coverage is an additional layer of protection that can help pay deductibles, copays and coinsurance.",
+          "guaranteedIssue": "You're guaranteed base coverage without answering health questions.",
+          "coveredBenefits": [
+            {
+              "benefitName": "Fractures",
+              "amount": "$225-$4,500"
+            },
+            {
+              "benefitName": "Dislocations",
+              "amount": "$150-$3,375"
+            },
+            {
+              "benefitName": "Emergency Room Treatment",
+              "amount": "$300"
+            },
+            {
+              "benefitName": "Transfusions",
+              "amount": "$400"
+            },
+            {
+              "benefitName": "Physician Follow-Up Visit",
+              "amount": "$100"
+            },
+            {
+              "benefitName": "Therapy Services",
+              "amount": "$50"
+            },
+            {
+              "benefitName": "Hospital or ICU Benefit",
+              "amount": "$1,000"
+            },
+            {
+              "benefitName": "Burns (2nd and 3rd degree)",
+              "amount": "$500-$10,000"
+            },
+            {
+              "benefitName": "Concussion",
+              "amount": "$200"
+            },
+            {
+              "benefitName": "Knee Cartilage (Meniscus) With Repair",
+              "amount": "$750"
+            },
+            {
+              "benefitName": "Durable Medical Equipment",
+              "amount": "$50-$200"
+            },
+            {
+              "benefitName": "Ambulance",
+              "amount": "$500-$1,500"
+            },
+            {
+              "benefitName": "Prosthetic Device",
+              "amount": "$750-$1,500"
+            }
+          ],
+          "wellnessBenefit": "Be Well Benefit. Receive $50 every year for getting a covered Be Well screening test.",
+          "premiums": {
+            "frequency": "Biweekly contributions",
+            "costColumns": [
+              "Biweekly Contribution"
+            ],
+            "tiers": [
+              {
+                "tierLabel": "Employee Only",
+                "costs": [
+                  {
+                    "columnLabel": "Biweekly Contribution",
+                    "value": "$5.18"
+                  }
+                ]
+              },
+              {
+                "tierLabel": "Employee + Spouse",
+                "costs": [
+                  {
+                    "columnLabel": "Biweekly Contribution",
+                    "value": "$9.56"
+                  }
+                ]
+              },
+              {
+                "tierLabel": "Employee + Child(ren)",
+                "costs": [
+                  {
+                    "columnLabel": "Biweekly Contribution",
+                    "value": "$11.70"
+                  }
+                ]
+              },
+              {
+                "tierLabel": "Family",
+                "costs": [
+                  {
+                    "columnLabel": "Biweekly Contribution",
+                    "value": "$16.07"
+                  }
+                ]
+              }
+            ],
+            "sourcePage": 31
+          },
+          "specialProvisions": "Employee must purchase coverage for themselves in order for their spouse and child to be covered. ",
+          "portability": "You can keep your coverage if you change jobs or retire. You will be billed directly to your home."
+        },
+        {
+          "productName": "Critical Illness Coverage",
+          "productType": "Critical Illness",
+          "carrier": "Unum",
+          "description": "Critical Illness coverage through Unum pays a lump-sum benefit if you are diagnosed with a covered disease or condition. You can use this money however you like. Examples include helping pay for expenses not covered by your medical plan, lost wages, childcare, travel, home healthcare costs, or any of your regular household expenses. Premiums are based on the employee's age on the effective date of coverage. Even if the spouse is in a different age band, the rates are based on the employee's age. Children are covered at no additional cost when you elect employee coverage.",
+          "guaranteedIssue": "",
+          "coverageAmounts": [
+            "Employee: $10,000 to $30,000 in increments of $5,000",
+            "Spouse: 100% of the employee coverage amount",
+            "Children: 100% of your coverage amount at no additional cost"
+          ],
+          "coveredBenefits": [
+            {
+              "benefitName": "Critical illness",
+              "amount": "A Heart Attack; Stroke; Major organ failure; End-stage kidney failure"
+            },
+            {
+              "benefitName": "Coronary artery disease",
+              "amount": "Major (50%): Coronary artery bypass graft or valve replacement; Minor (10%): Balloon angioplasty or stent placement"
+            },
+            {
+              "benefitName": "Cancer conditions",
+              "amount": "Invasive cancer - all breast cancer is considered invasive; Non-invasive cancer (25%); Skin cancer - $500"
+            },
+            {
+              "benefitName": "Progressive diseases",
+              "amount": "Amyotrophic Lateral Sclerosis (ALS); Dementia, including Alzheimer's disease; Multiple Sclerosis (MS); Parkinson's disease; Functional loss"
+            },
+            {
+              "benefitName": "Supplemental condition",
+              "amount": "Loss of sight, hearing, or speech; Benign brain tumor; Coma; Permanent paralysis; Occupational HIV, Hepatitis B, C, or D; Infectious Diseases (25%)"
+            }
+          ],
+          "wellnessBenefit": "",
+          "premiums": {
+            "frequency": "Biweekly rates per $5,000 of coverage",
+            "costColumns": [
+              "Employee Only",
+              "Employee + Spouse"
+            ],
+            "tiers": [
+              {
+                "tierLabel": "<25",
+                "costs": [
+                  {
+                    "columnLabel": "Employee Only",
+                    "value": "$0.42"
+                  },
+                  {
+                    "columnLabel": "Employee + Spouse",
+                    "value": "$0.84"
+                  }
+                ]
+              },
+              {
+                "tierLabel": "25-29",
+                "costs": [
+                  {
+                    "columnLabel": "Employee Only",
+                    "value": "$0.58"
+                  },
+                  {
+                    "columnLabel": "Employee + Spouse",
+                    "value": "$1.16"
+                  }
+                ]
+              },
+              {
+                "tierLabel": "30-34",
+                "costs": [
+                  {
+                    "columnLabel": "Employee Only",
+                    "value": "$0.85"
+                  },
+                  {
+                    "columnLabel": "Employee + Spouse",
+                    "value": "$1.70"
+                  }
+                ]
+              },
+              {
+                "tierLabel": "35-39",
+                "costs": [
+                  {
+                    "columnLabel": "Employee Only",
+                    "value": "$1.11"
+                  },
+                  {
+                    "columnLabel": "Employee + Spouse",
+                    "value": "$2.22"
+                  }
+                ]
+              },
+              {
+                "tierLabel": "40-44",
+                "costs": [
+                  {
+                    "columnLabel": "Employee Only",
+                    "value": "$1.68"
+                  },
+                  {
+                    "columnLabel": "Employee + Spouse",
+                    "value": "$3.36"
+                  }
+                ]
+              },
+              {
+                "tierLabel": "45-49",
+                "costs": [
+                  {
+                    "columnLabel": "Employee Only",
+                    "value": "$2.63"
+                  },
+                  {
+                    "columnLabel": "Employee + Spouse",
+                    "value": "$5.26"
+                  }
+                ]
+              },
+              {
+                "tierLabel": "50-54",
+                "costs": [
+                  {
+                    "columnLabel": "Employee Only",
+                    "value": "$4.25"
+                  },
+                  {
+                    "columnLabel": "Employee + Spouse",
+                    "value": "$8.50"
+                  }
+                ]
+              },
+              {
+                "tierLabel": "55-59",
+                "costs": [
+                  {
+                    "columnLabel": "Employee Only",
+                    "value": "$6.18"
+                  },
+                  {
+                    "columnLabel": "Employee + Spouse",
+                    "value": "$12.36"
+                  }
+                ]
+              },
+              {
+                "tierLabel": "60-64",
+                "costs": [
+                  {
+                    "columnLabel": "Employee Only",
+                    "value": "$9.12"
+                  },
+                  {
+                    "columnLabel": "Employee + Spouse",
+                    "value": "$18.24"
+                  }
+                ]
+              },
+              {
+                "tierLabel": "65-69",
+                "costs": [
+                  {
+                    "columnLabel": "Employee Only",
+                    "value": "$13.68"
+                  },
+                  {
+                    "columnLabel": "Employee + Spouse",
+                    "value": "$27.36"
+                  }
+                ]
+              },
+              {
+                "tierLabel": "70-74",
+                "costs": [
+                  {
+                    "columnLabel": "Employee Only",
+                    "value": "$20.56"
+                  },
+                  {
+                    "columnLabel": "Employee + Spouse",
+                    "value": "$41.12"
+                  }
+                ]
+              },
+              {
+                "tierLabel": "75-79",
+                "costs": [
+                  {
+                    "columnLabel": "Employee Only",
+                    "value": "$20.56"
+                  },
+                  {
+                    "columnLabel": "Employee + Spouse",
+                    "value": "$41.12"
+                  }
+                ]
+              }
+            ],
+            "sourcePage": 32
+          },
+          "specialProvisions": "Employee must purchase coverage for themselves in order to purchase spouse or child (up to age 26) coverage. Employee - choose from $10,000 to $30,000 in increments of $5,000. Spouses - receive 100% of the employee coverage amount. Children - their coverage amount is 100% of your coverage amount.",
+          "portability": "Coverage is portable. You may take the coverage with you if you leave the company or retire. You will be billed directly to your home."
+        },
+        {
+          "productName": "Hospital Indemnity Plan",
+          "productType": "Hospital Indemnity",
+          "carrier": "Unum",
+          "description": "Hospital Insurance coverage through Unum pays cash benefits directly to you if you are admitted to the hospital for a covered accident, illness or childbirth. The money can help you pay the out-of-pocket medical expenses your medical plan may not cover.",
+          "guaranteedIssue": "",
+          "coveredBenefits": [
+            {
+              "benefitName": "Hospital admission",
+              "amount": "$1,000"
+            },
+            {
+              "benefitName": "ICU admission",
+              "amount": "$1,000"
+            },
+            {
+              "benefitName": "Hospital daily stay",
+              "amount": "$200"
+            },
+            {
+              "benefitName": "ICU daily stay",
+              "amount": "$200"
+            },
+            {
+              "benefitName": "Mental/nervous or substance abuse treatment",
+              "amount": "$250"
+            }
+          ],
+          "wellnessBenefit": "Every year, each family member who has Hospital coverage can also receive $50 for getting a covered Be Well screening test such as annual exams, wellchild visits, dental, and vision exams, preventive gender specific screenings, immunizations, etc.",
+          "premiums": {
+            "frequency": "Biweekly contributions",
+            "costColumns": [
+              "Biweekly Contribution"
+            ],
+            "tiers": [
+              {
+                "tierLabel": "Employee Only",
+                "costs": [
+                  {
+                    "columnLabel": "Biweekly Contribution",
+                    "value": "$8.41"
+                  }
+                ]
+              },
+              {
+                "tierLabel": "Employee + Spouse",
+                "costs": [
+                  {
+                    "columnLabel": "Biweekly Contribution",
+                    "value": "$20.15"
+                  }
+                ]
+              },
+              {
+                "tierLabel": "Employee + Child(ren)",
+                "costs": [
+                  {
+                    "columnLabel": "Biweekly Contribution",
+                    "value": "$12.41"
+                  }
+                ]
+              },
+              {
+                "tierLabel": "Family",
+                "costs": [
+                  {
+                    "columnLabel": "Biweekly Contribution",
+                    "value": "$24.15"
+                  }
+                ]
+              }
+            ],
+            "sourcePage": 33
+          },
+          "specialProvisions": "The money is paid directly to you - not to a hospital or care provider. Employee must purchase coverage for themselves in order to purchase spouse or child (up to age 26) coverage. The benefits in this plan are compatible with a Health Savings Account (HSA). ",
+          "portability": "You may take the coverage with you if you leave the company or retire, without having to answer new health questions. You will be billed directly from Unum."
+        }
+      ],
+      "sections": [
+        {
+          "heading": "Accident Coverage",
+          "body": "Accident coverage through Unum provides benefits for you and your covered family member for expenses related to an accidental injury that occurs outside of work. Health insurance helps with medical expenses, but this coverage is an additional layer of protection that can help pay deductibles, copays and coinsurance.",
+          "bullets": [
+            "Employee must purchase coverage for themselves in order for their spouse and child to be covered.",
+            "You're guaranteed base coverage without answering health questions.",
+            "You can keep your coverage if you change jobs or retire. You will be billed directly to your home.",
+            "Be Well Benefit. Receive $50 every year for getting a covered Be Well screening test."
+          ],
+          "sourcePage": 31
+        },
+        {
+          "heading": "Critical Illness Coverage",
+          "body": "Critical Illness coverage through Unum pays a lump-sum benefit if you are diagnosed with a covered disease or condition. You can use this money however you like. Examples include helping pay for expenses not covered by your medical plan, lost wages, childcare, travel, home healthcare costs, or any of your regular household expenses. Premiums are based on the employee's age on the effective date of coverage. Even if the spouse is in a different age band, the rates are based on the employee's age. Children are covered at no additional cost when you elect employee coverage.",
+          "bullets": [
+            "Employee must purchase coverage for themselves in order to purchase spouse or child (up to age 26) coverage.",
+            "Employee - choose from $10,000 to $30,000 in increments of $5,000.",
+            "Spouses - receive 100% of the employee coverage amount.",
+            "Children - their coverage amount is 100% of your coverage amount.",
+            "Coverage is portable. You may take the coverage with you if you leave the company or retire. You will be billed directly to your home."
+          ],
+          "sourcePage": 32
+        },
+        {
+          "heading": "Hospital Indemnity Plan",
+          "body": "Hospital Insurance coverage through Unum pays cash benefits directly to you if you are admitted to the hospital for a covered accident, illness or childbirth. The money can help you pay the out-of-pocket medical expenses your medical plan may not cover.",
+          "bullets": [
+            "The money is paid directly to you — not to a hospital or care provider.",
+            "Employee must purchase coverage for themselves in order to purchase spouse or child (up to age 26) coverage.",
+            "The benefits in this plan are compatible with a Health Savings Account (HSA).",
+            "You may take the coverage with you if you leave the company or retire, without having to answer new health questions. You will be billed directly from Unum.",
+            "Every year, each family member who has Hospital coverage can also receive $50 for getting a covered Be Well screening test such as annual exams, wellchild visits, dental, and vision exams, preventive gender specific screenings, immunizations, etc."
+          ],
+          "sourcePage": 33
+        }
+      ],
+      "tables": []
+    },
+    "incomeProtection": {
+      "chapterKey": "incomeProtection",
+      "chapterTitle": "Income Protection",
+      "chapterSubtitle": null,
+      "siteGroup": null,
+      "summary": "Basic Long-Term Disability (LTD) insurance at no cost replaces 60% of income, and the LTD Buy-Up increases replacement to 66.67%, both with a 90-day elimination period.",
+      "sourcePages": [
+        29
+      ],
+      "coverages": [
+        {
+          "coverageName": "Basic Long-Term Disability (LTD) Insurance",
+          "carrier": null,
+          "paidBy": null,
+          "eligibility": null,
+          "incomeReplacementPercent": null,
+          "maximumBenefit": "$10,000",
+          "eliminationPeriod": "90 days",
+          "maximumBenefitPeriod": "Payments will last for as long as you are disabled or until you reach your Social Security Normal Retirement Age, whichever is sooner.",
+          "preExistingConditionClause": "Certain exclusions, along with pre-existing condition limitations, may apply.",
+          "rate": null,
+          "calculationFormula": null,
+          "exclusions": null,
+          "notes": "Benefits are available at no cost."
+        },
+        {
+          "coverageName": "Long-Term Disability Buy-Up Insurance",
+          "carrier": null,
+          "paidBy": null,
+          "eligibility": null,
+          "incomeReplacementPercent": null,
+          "maximumBenefit": "$10,000",
+          "eliminationPeriod": "90 days",
+          "maximumBenefitPeriod": "Payments will last for as long as you are disabled or until you reach your Social Security Normal Retirement Age, whichever is sooner.",
+          "preExistingConditionClause": "Certain exclusions, along with pre-existing condition limitations, may apply.",
+          "rate": null,
+          "calculationFormula": null,
+          "exclusions": null,
+          "notes": "If your base salary is $200,000 or above, you will not be eligible to purchase the LTD Buy-Up. Evidence of Insurability (EOI) is required for enrollment."
+        }
+      ],
+      "rateTables": null,
+      "claimsContact": null,
+      "leaveOfAbsenceNote": null,
+      "sections": [
+        {
+          "heading": "Introduction",
+          "body": "You and your loved ones depend on your regular income. That’s why Lhoist North America offers disability coverage to protect you financially in the event you cannot work as a result of a debilitating injury. A portion of your income is protected until you can return to work or you reach retirement age.",
+          "bullets": null,
+          "sourcePage": 29
+        }
+      ],
+      "tables": null
+    },
+    "retirement": {
+      "chapterKey": "retirement",
+      "chapterTitle": "Retirement",
+      "chapterSubtitle": "\n",
+      "siteGroup": "retirement",
+      "summary": "Lhoist North America’s 401(k) plan features automatic enrollment, a Safe Harbor company match, quarterly employer contributions, and multiple savings options, including pre-tax, Roth 401(k) and after-tax contributions.",
+      "sourcePages": [
+        34,
+        35
+      ],
+      "planName": "Lhoist North America 401(k) Plan",
+      "planType": "",
+      "recordKeeper": "T. Rowe Price",
+      "website": "rps.troweprice.com",
+      "phone": "800-922-9945",
+      "eligibility": "On your day of hire",
+      "entryDates": "On your day of hire",
+      "employerMatch": "Lhoist North America offers a safe harbor match. We will match 100% of the first 3% you contribute to the Plan and 50% of the next 2% (a total of 4%). You are 100% vested in the company match as soon as you contribute.",
+      "autoEnrollment": {
+        "isAutoEnrolled": "Yes",
+        "defaultRate": "5% Pre-Tax",
+        "delayBeforeStart": "Within 30 days from your date of hire",
+        "autoEscalation": "",
+        "optOutProcess": "During the 30-day window, you can change your contribution rate, contribution type, investment election, or choose to OPT OUT of the plan completely before your first contribution is deducted from your paycheck."
+      },
+      "contributionTypes": [
+        {
+          "typeName": "Pre-tax",
+          "description": "Tax-deferred contributions and earnings taxed at distribution."
+        },
+        {
+          "typeName": "Roth 401(k)",
+          "description": "Contributions taxed immediately, earnings tax-free for qualified withdrawals."
+        },
+        {
+          "typeName": "After-tax",
+          "description": "No taxes on withdrawal of contributions; earnings are taxable as ordinary income at the time of distribution."
+        }
+      ],
+      "contributionLimits": [
+        {
+          "limitLabel": "Deferred contribution limit - 2026 ",
+          "amount": "$24,500",
+          "planYear": ""
+        },
+        {
+          "limitLabel": "Catch-up limit (age 50+) - 2026 ",
+          "amount": "$8,000",
+          "planYear": ""
+        },
+        {
+          "limitLabel": "Higher catch-up limit (ages 60-63) - 2026 ",
+          "amount": "$11,250",
+          "planYear": ""
+        }
+      ],
+      "vestingSchedule": [
+        {
+          "yearsOfService": "As soon as you contribute",
+          "percentVested": "100%"
+        },
+        {
+          "yearsOfService": "3 years of service",
+          "percentVested": "100%"
+        }
+      ],
+      "vestingAppliesTo": "Company match and 401(k) Supplemental Contribution",
+      "loanProvisions": "",
+      "hardshipWithdrawals": "",
+      "rolloverConsolidation": "If you have an existing qualified retirement plan (pre-tax) with a previous employer, you may transfer that account into the plan any time. Contact T. Rowe Price at 800-922-9945 for details.",
+      "investmentGuidance": "The plan offers a selection of investment options. Contributions may default into an age-based T. Rowe Price Retirement Trust based on the year you’ll turn age 65.",
+      "sections": [
+        {
+          "heading": "When Am I Enrolled?",
+          "body": "You will be automatically enrolled into the 401(k) Plan within 30 days from your date of hire. The default contribution rate will be 5% Pre-Tax and the investment will placed in an age-based T. Rowe Price Retirement Trust based on the year you’ll turn age 65. During the 30-day window, you can change your contribution rate, contribution type, investment election, or choose to OPT OUT of the plan completely before your first contribution is deducted from your paycheck. Name your beneficiary! Please add your beneficiary information to ensure your 401(k) savings are distributed according to your wishes.",
+          "sourcePage": 34
+        },
+        {
+          "heading": "How Much Should I Save?",
+          "body": "Industry standards suggest saving at least 12% to 15% of your income, including Lhoist North America’s generous matching contribution of 100% of the first 3% you contribute to the Plan and 50% of the next 2% (a total of 4%). If you can’t afford to save that much, make sure to save up to the matching amount so you don’t leave free money behind.",
+          "sourcePage": 34
+        },
+        {
+          "heading": "Changing or Stopping Your Contributions",
+          "body": "You may change the amount of your contributions any time. Changes are effective as soon as administratively feasible and remain in effect until you modify them. You may also discontinue your contributions and start them again at any time.",
+          "sourcePage": 34
+        },
+        {
+          "heading": "Consolidating Your Retirement Savings",
+          "body": "If you have an existing qualified retirement plan (pre-tax) with a previous employer, you may transfer that account into the plan any time. Contact T. Rowe Price at 800-922-9945 for details. Regardless of which retirement account you choose or how much you contribute, remember to think of it as a long-term strategy. Dipping into the account early will jeopardize the quality of your retirement and you may be subject to early withdrawal penalties from the IRS.",
+          "sourcePage": 35
+        },
+        {
+          "heading": "Investing in the Plan",
+          "body": "It’s up to you how to invest the assets. The Lhoist North America 401(k) plan offers a selection of investment options for you to choose from. You may change your investment choices any time. For more details, visit rps.troweprice.com.",
+          "sourcePage": 35
+        },
+        {
+          "heading": "401(k) Supplemental Contribution",
+          "body": "In addition to the company’s 401(k) match for your contributions into the plan, Lhoist also provides a quarterly 401(k) Supplemental Contribution into your account. You ARE NOT required to participate in the 401(k) Plan in order to receive the Supplemental Contribution.",
+          "bullets": [
+            "You will be 100% vested in the 401(k) Supplemental Contributions after three years of service.",
+            "Eligibility begins on the date of hire and a participant must be employed on the last day of the calendar quarter to receive the company contribution.",
+            "New employees’ contributions will be pro-rated for the first quarter of employment based on the number of days employed during the quarter.",
+            "The contribution percentage is based on regular earnings and years of service on the calendar quarter prior to when contributions are made. Contributions will be deposited into the participant’s account in the month following each quarter."
+          ],
+          "sourcePage": 35
+        }
+      ],
+      "tables": [
+        {
+          "tableTitle": "Employer Contribution",
+          "columnLabels": [
+            "Years of Service",
+            "Percentage"
+          ],
+          "rows": [
+            {
+              "rowLabel": "1 to 4 years",
+              "cells": [
+                {
+                  "columnLabel": "Years of Service",
+                  "value": "1 to 4 years"
+                },
+                {
+                  "columnLabel": "Percentage",
+                  "value": "4%"
+                }
+              ],
+              "rowFootnote": ""
+            },
+            {
+              "rowLabel": "5 to 9 years",
+              "cells": [
+                {
+                  "columnLabel": "Years of Service",
+                  "value": "5 to 9 years"
+                },
+                {
+                  "columnLabel": "Percentage",
+                  "value": "6%"
+                }
+              ],
+              "rowFootnote": ""
+            },
+            {
+              "rowLabel": "10 to 14 years",
+              "cells": [
+                {
+                  "columnLabel": "Years of Service",
+                  "value": "10 to 14 years"
+                },
+                {
+                  "columnLabel": "Percentage",
+                  "value": "8%"
+                }
+              ],
+              "rowFootnote": ""
+            },
+            {
+              "rowLabel": "15+ years",
+              "cells": [
+                {
+                  "columnLabel": "Years of Service",
+                  "value": "15+ years"
+                },
+                {
+                  "columnLabel": "Percentage",
+                  "value": "10%"
+                }
+              ],
+              "rowFootnote": ""
+            }
+          ],
+          "sourcePage": 35
+        }
+      ]
+    },
+    "additionalBenefits": {
+      "chapterKey": "additionalBenefits",
+      "chapterTitle": "Additional Benefits",
+      "chapterSubtitle": "\n",
+      "siteGroup": "additional",
+      "summary": "This section includes financial wellness consultations, identity theft protection, and tuition assistance programs.",
+      "sourcePages": [
+        36,
+        37,
+        38
+      ],
+      "benefits": [
+        {
+          "benefitName": "Financial Wellness Consultation",
+          "benefitType": "financial",
+          "carrier": "Creative Planning",
+          "description": "Lhoist North America offers free access to a personal Financial Wellness Consultant from its retirement advisor, Creative Planning. All discussions are confidential, and no information will be shared with Lhoist.",
+          "eligibility": "Everyone",
+          "cost": "Free",
+          "howToEnrollOrAccess": "Scan the QR code, email claudia.nybo@creativeplanning.com, or call 512-537-4997.",
+          "website": "CREATIVEPLANNING.COM",
+          "phone": "512-537-4997",
+          "referralOrAccessCode": "",
+          "detailTable": {
+            "tableTitle": "",
+            "sourcePage": 36
+          },
+          "notes": "Topics include financial foundations, debt management, benefits optimization, and wealth building."
+        },
+        {
+          "benefitName": "Employee Assistance Program",
+          "benefitType": "eap",
+          "carrier": "AllOne Health",
+          "description": "The Employee Assistance Program (EAP) through AllOne Health helps manage your family’s total health, including mental, emotional, and physical. There’s no cost to you whether or not you’re enrolled in a company-sponsored medical plan. All services provided are confidential.",
+          "eligibility": "Employees and their families",
+          "cost": "No cost to you",
+          "howToEnrollOrAccess": "Phone 855-775-4357 or online at http://allonehealth.com/reliance-matrix using company code RSLI859.",
+          "website": "http://allonehealth.com/reliance-matrix",
+          "phone": "855-775-4357",
+          "referralOrAccessCode": "RSLI859",
+          "detailTable": {
+            "tableTitle": "",
+            "sourcePage": 36
+          },
+          "notes": "Available 24 hours a day, seven days a week. Referrals include emotional health and wellbeing, alcohol or drug dependency, marriage or family problems, job pressures, stress, anxiety, depression, grief and loss, and financial or legal advice."
+        },
+        {
+          "benefitName": "Identity Theft Protection",
+          "benefitType": "identity protection",
+          "carrier": "LifeLock Benefit Elite",
+          "description": "LifeLock Benefit Elite helps protect your 401(k) and other investment accounts from fraudulent withdrawals and balance transfers. It also searches over a trillion data points every day for potential threats to members’ personal identity and brings potential fraud to your attention through alerts via the company’s network via email, text or phone.",
+          "eligibility": "Employee only or family plan options are shown",
+          "cost": "\n",
+          "howToEnrollOrAccess": "",
+          "website": "",
+          "phone": "",
+          "referralOrAccessCode": "",
+          "detailTable": {
+            "tableTitle": "Biweekly Contributions",
+            "columnLabels": [
+              "Plan Options"
+            ],
+            "rows": [
+              {
+                "rowLabel": "Employee Only",
+                "cells": [
+                  {
+                    "columnLabel": "Plan Options",
+                    "value": "$3.92"
+                  }
+                ],
+                "rowFootnote": ""
+              },
+              {
+                "rowLabel": "Family",
+                "cells": [
+                  {
+                    "columnLabel": "Plan Options",
+                    "value": "$7.84"
+                  }
+                ],
+                "rowFootnote": ""
+              }
+            ],
+            "sourcePage": 37
+          },
+          "notes": ""
+        },
+        {
+          "benefitName": "Tuition Reimbursement",
+          "benefitType": "education",
+          "carrier": "Lhoist North America",
+          "description": "Traditional tuition reimbursement is available for secondary and graduate programs. Certifications are not eligible under this policy. The company will reimburse tuition, books, and mandatory fees; one half is paid upon receipt of the approved application and receipts, and the remaining balance is paid after the employee submits a copy of the final passing grade of C or higher.",
+          "eligibility": "Employees with at least 6 months of service",
+          "cost": "\n",
+          "howToEnrollOrAccess": "Review the full policy and submit the approved application, receipts, and final grade documentation.",
+          "website": "",
+          "phone": "",
+          "referralOrAccessCode": "",
+          "detailTable": {
+            "tableTitle": "",
+            "sourcePage": 38
+          },
+          "notes": "Maximum annual reimbursement is $5,250."
+        },
+        {
+          "benefitName": "Bellevue University Tuition Grants",
+          "benefitType": "education",
+          "carrier": "Bellevue University",
+          "description": "Lhoist partnered with Bellevue University to provide an additional benefit in addition to the tuition reimbursement policy. Degree programs and some certifications are available. Immediate family members are eligible also, and accelerated programs with 4 semesters per year are available.",
+          "eligibility": "Employees with at least 6 months of service after maxing out tuition reimbursement.",
+          "cost": "\n",
+          "howToEnrollOrAccess": "Use the Bellevue University partnership after you have maxed out the Tuition Reimbursement Policy.",
+          "website": "",
+          "phone": "",
+          "referralOrAccessCode": "",
+          "detailTable": {
+            "tableTitle": "",
+            "sourcePage": 38
+          },
+          "notes": "Tuition is not required to be paid at the time of enrollment, but other expenses such as books are required at the time of enrollment. Maximum annual grant: full-time employees $5,250; part-time employees $5,250; immediate family members $3,500."
+        }
+      ],
+      "sections": [
+        {
+          "heading": "Financial Wellness",
+          "body": "Lhoist North America offers free access to a personal Financial Wellness Consultant from its retirement advisor, Creative Planning. All discussions are confidential and no information will be shared with Lhoist. Book a one-on-one appointment and bring statements or usernames and passwords for key financial accounts such as checking/savings, credit cards, student loans, investments, 401(k)s, IRAs, 403(b)s, and insurance policies.",
+          "bullets": [
+            "Topics include financial foundations, debt management, benefits optimization, and wealth building.",
+            "Financial foundations: budgeting, emergency savings, cashflow priorities.",
+            "Debt management: credit scores, debt reduction strategies, student loan options.",
+            "Benefits optimization: insurance coverage, tax reduction options (Roths, HSAs, FSAs), retirement readiness, Social Security and Medicare.",
+            "Wealth building: investing, tax efficiency, estate planning, life insurance.",
+            "Schedule with Claudia Nybo at claudia.nybo@creativeplanning.com or 512-537-4997."
+          ],
+          "sourcePage": 36
+        },
+        {
+          "heading": "Employee Assistance Program",
+          "body": "The Employee Assistance Program (EAP) through AllOne Health helps manage your family’s total health, including mental, emotional, and physical. There’s no cost to you whether or not you’re enrolled in a company-sponsored medical plan. AllOne Health is available 24 hours a day, seven days a week and all services are confidential.",
+          "bullets": [
+            "Phone: 855-775-4357",
+            "Online: http://allonehealth.com/reliance-matrix",
+            "Company Code: RSLI859",
+            "Referrals include emotional health and wellbeing, alcohol or drug dependency, marriage or family problems, job pressures, stress, anxiety, depression, grief and loss, and financial or legal advice."
+          ],
+          "sourcePage": 36
+        },
+        {
+          "heading": "Identity Theft Protection",
+          "body": "LifeLock Benefit Elite helps protect your 401(k) and other investment accounts from fraudulent withdrawals and balance transfers. It also searches over a trillion data points every day for potential threats to members’ personal identity and brings potential fraud to your attention through alerts via the company’s network via email, text or phone. The Million Dollar Protection Package provides coverage for Stolen Funds reimbursement and Personal Expense Compensation.",
+          "bullets": [
+            "If you become a victim of identity theft while a LifeLock member, LifeLock will spend up to $1 million to hire necessary lawyers, accountants and investigators to help with recovery.",
+            "No one can prevent all identity theft.",
+            "LifeLock does not monitor all transactions at all businesses.",
+            "See policy terms, conditions and exclusions at LifeLock.com/legal."
+          ],
+          "sourcePage": 37
+        },
+        {
+          "heading": "Tuition Reimbursement",
+          "body": "Traditional tuition reimbursement is available for secondary and graduate programs. Certifications are not eligible under this policy. The company will reimburse tuition, books, and mandatory fees; one half is paid upon receipt of the approved application and receipts, and the remaining balance is paid after the employee submits a copy of the final passing grade of C or higher.",
+          "bullets": [
+            "Maximum annual reimbursement is $5,250."
+          ],
+          "sourcePage": 38
+        },
+        {
+          "heading": "Bellevue University",
+          "body": "Lhoist partnered with Bellevue University to provide an additional benefit in addition to the tuition reimbursement policy. Degree programs and some certifications are available. Immediate family members are eligible also, and accelerated programs with 4 semesters per year are available. Tuition is not required to be paid at the time of enrollment, but other expenses such as books are required at the time of enrollment.",
+          "bullets": [
+            "You must max out on the Tuition Reimbursement Policy first before you can be eligible for the Bellevue grants.",
+            "Maximum annual grant: full-time employees $5,250; part-time employees $5,250; immediate family members $3,500."
+          ],
+          "sourcePage": 38
+        }
+      ],
+      "tables": []
+    },
+    "enrollment": {
+      "chapterKey": "enrollment",
+      "chapterTitle": "How to Enroll",
+      "chapterSubtitle": "Ready to Enroll?",
+      "siteGroup": "eligibility",
+      "summary": "Elections are made in [Workday](https://wd3-identity.myworkday.com/wday/authgwy/lhoist/upc/login).\nGo to [Workday](https://wd3-identity.myworkday.com/wday/authgwy/lhoist/upc/login) Menu > Benefits.\nNew hire enrollment or annual enrollment; changes also allowed within 30 days of a qualifying life event.\nYou will have 30 days from the date of hire to submit your elections.\nWhen a qualifying life event occurs, you have 30 days after the date of the event to request changes and provide supporting documents.",
+      "enrollmentPlatform": "Workday",
+      "enrollmentUrl": "Workday Menu > Benefits",
+      "enrollmentWindow": "",
+      "deadlineNote": "",
+      "defaultIfNoAction": "Not stated",
+      "supportContact": "LNA Benefits Team at 800-286-0134 or LNA.Benefits@lhoist.com"
+    },
+    "glossary": {
+      "chapterKey": "glossary",
+      "chapterTitle": "Need to Know Definitions",
+      "chapterSubtitle": null,
+      "siteGroup": null,
+      "summary": null,
+      "sourcePages": [
+        5,
+        6
+      ],
+      "terms": [
+        {
+          "term": "Balance Billing",
+          "definition": "When you are billed by a provider for the difference between the provider’s charge and the allowed amount. For example, if the provider’s charge is $100 and the allowed amount is $60, you may be billed by the provider for the remaining $40."
+        },
+        {
+          "term": "Coinsurance",
+          "definition": "Your share of the cost of a covered healthcare service, calculated as a percent of the allowed amount for the service, typically after you meet your deductible."
+        },
+        {
+          "term": "Copay",
+          "definition": "The fixed amount you pay for healthcare services received, as determined by your insurance plan."
+        },
+        {
+          "term": "Deductible",
+          "definition": "The amount you owe for healthcare services before your insurance begins to pay its portion. For example, if your deductible is $1,000, your plan does not pay anything until you’ve paid $1,000 for covered services. This deductible may not apply to all services, including preventive care."
+        },
+        {
+          "term": "Explanation of Benefits (EOB)",
+          "definition": "A statement from your insurance carrier that explains which services were provided, their cost, what portion of the claim was paid by the plan, and what portion is your liability, in addition to how you can appeal the insurer’s decision."
+        },
+        {
+          "term": "Flexible Spending Accounts (FSAs)",
+          "definition": "A special tax-free account you put money into that you use to pay for certain out-of-pocket healthcare costs. You’ll save an amount equal to the taxes you would have paid on the money you set aside. FSAs are “use it or lose it,” so funds not used by the end of the plan year will be lost. Some Healthcare FSAs do allow for a grace period or rollover into the next plan year."
+        },
+        {
+          "term": "Healthcare FSA",
+          "definition": "A pre-tax benefit account used to pay for eligible medical, dental, and vision care expenses that aren’t covered by your insurance plan. You must be enrolled in a PPO plan to open a Healthcare FSA account. All expenses must be qualified as defined in Section 213(d) of the Internal Revenue Code."
+        },
+        {
+          "term": "Dependent Care FSA",
+          "definition": "A pre-tax benefit account used to pay for dependent care services. For additional information on eligible expenses, refer to Publication 503 on the IRS website."
+        },
+        {
+          "term": "Limited Purpose FSA",
+          "definition": "Designed to complement a Health Savings Account, a Limited Use FSA allows for reimbursement of eligible dental and vision expenses."
+        },
+        {
+          "term": "Healthcare Cost Transparency",
+          "definition": "Also known as market transparency or medical transparency. Online cost transparency tools, available through health insurance carriers, allow you to search an extensive national database to compare varying costs for services."
+        },
+        {
+          "term": "Health Savings Account (HSA)",
+          "definition": "A personal healthcare bank account funded by your or your employer’s tax-free dollars to pay for qualified medical expenses. You must be enrolled in an HDHP to open an HSA. Funds contributed to an HSA roll over from year to year and the account is portable if you change jobs."
+        },
+        {
+          "term": "High Deductible Health Plan (HDHP)",
+          "definition": "A plan option that provides choice, flexibility, and control when it comes to healthcare spending. Most preventive care is covered at 100% with in-network providers, and all qualified employee-paid medical expenses count toward your deductible and out-of-pocket maximum."
+        },
+        {
+          "term": "Network",
+          "definition": "A group of physicians, hospitals, and healthcare providers that have agreed to provide medical services to a health insurance plan’s members at discounted costs."
+        },
+        {
+          "term": "In-Network",
+          "definition": "Providers that contract with your insurance company to provide healthcare services at the negotiated carrier discounted rates."
+        },
+        {
+          "term": "Out-of-Network",
+          "definition": "Providers that are not contracted with your insurance company. If you choose an out-of-network provider, services will not be covered at the in-network negotiated carrier discounted rates."
+        },
+        {
+          "term": "Non-Participating",
+          "definition": "Providers that have declined entering into a contract with your insurance provider. They may not accept any insurance and you could pay for all costs out-of-pocket."
+        },
+        {
+          "term": "Open Enrollment",
+          "definition": "The period set by the employer during which employees and dependents may enroll for coverage."
+        },
+        {
+          "term": "Out-of-Pocket Maximum",
+          "definition": "The most you pay during the plan year before your health insurance begins to pay 100% of the allowed amount. This does not include your premium, out-of-network provider charges beyond the Reasonable & Customary, or healthcare your plan doesn’t cover. Check with your carrier to confirm what applies to the maximum."
+        },
+        {
+          "term": "Over-the-Counter (OTC) Medications",
+          "definition": "Medications available without a prescription."
+        },
+        {
+          "term": "Prescription Medications",
+          "definition": "Medications prescribed by a doctor. Cost of these medications is determined by their assigned tier: generic, preferred, non-preferred, or specialty."
+        },
+        {
+          "term": "Generic Drugs",
+          "definition": "Drugs approved by the U.S. Food and Drug Administration (FDA) to be chemically identical to corresponding preferred or non-preferred versions. Usually the most cost-effective version of any medication."
+        },
+        {
+          "term": "Preferred Drugs",
+          "definition": "Brand-name drugs on your provider’s approved list (available online)."
+        },
+        {
+          "term": "Non-Preferred Drugs",
+          "definition": "Brand-name drugs not on your provider’s list of approved drugs. These drugs are typically newer and have higher copayments."
+        },
+        {
+          "term": "Specialty Drugs",
+          "definition": "Prescription medications used to treat complex, chronic, and often costly conditions. Because of the high cost, many insurers require that specific criteria be met before a drug is covered."
+        },
+        {
+          "term": "Prior Authorization",
+          "definition": "A requirement that your physician obtain approval from your health insurance plan to prescribe a specific medication for you."
+        },
+        {
+          "term": "Step Therapy",
+          "definition": "The goal of a Step Therapy Program is to steer employees to less expensive, yet equally effective, medications while keeping member and physician disruption to a minimum. You must typically try a generic or preferred-brand medication before “stepping up” to a non-preferred brand."
+        },
+        {
+          "term": "Reasonable and Customary Allowance (R&C)",
+          "definition": "The amount paid for a medical service in a geographic area based on what providers in the area usually charge for the same or similar medical service. The R&C amount is sometimes used to determine the allowed amount. Also known as the UCR (Usual, Customary, and Reasonable) amount."
+        },
+        {
+          "term": "Summary of Benefits and Coverage (SBC)",
+          "definition": "Mandated by healthcare reform, you are provided with a summary of your benefits and plan coverage."
+        },
+        {
+          "term": "Summary Plan Description (SPD)",
+          "definition": "The document(s) that outline the rights, obligations, and material provisions of the plan(s) to all participants and their beneficiaries."
+        }
+      ]
+    }
+  },
+  "contacts": [
+    {
+      "category": "Benefits Enrollment",
+      "provider": "Workday",
+      "planNames": null,
+      "phone": null,
+      "website": null,
+      "additionalInfo": "Enroll in and manage your benefits through [Workday](https://wd3-identity.myworkday.com/wday/authgwy/lhoist/upc/login).",
+      "alternatePhone": null,
+      "email": null,
+      "address": null,
+      "groupOrPolicyNumber": null,
+      "hours": null
+    },
+    {
+      "category": "Medical",
+      "provider": "BCBSTX",
+      "planNames": [
+        "PPO Policy #: 217467,  HDHP Policy #: 273140"
+      ],
+      "phone": "888-423-5475",
+      "website": "www.bcbstx.com",
+      "additionalInfo": "Health Advocacy Solutions; call or chat with your advocate today.",
+      "alternatePhone": null,
+      "email": null,
+      "address": null,
+      "groupOrPolicyNumber": null,
+      "hours": null,
+      "sourcePage": null
+    },
+    {
+      "category": "Telemedicine",
+      "provider": "Teladoc",
+      "phone": "800-835-2362",
+      "website": "teladoc.com/bcbstx",
+      "planNames": null,
+      "alternatePhone": null,
+      "email": null,
+      "address": null,
+      "groupOrPolicyNumber": null,
+      "hours": null,
+      "additionalInfo": null,
+      "sourcePage": null
+    },
+    {
+      "category": "Dental",
+      "provider": "Delta Dental",
+      "planNames": [
+        "Policy #: 20165"
+      ],
+      "phone": "800-521-2651",
+      "website": "www.deltadentalins.com",
+      "alternatePhone": null,
+      "email": null,
+      "address": null,
+      "groupOrPolicyNumber": null,
+      "hours": null,
+      "additionalInfo": null,
+      "sourcePage": null
+    },
+    {
+      "category": "Vision",
+      "provider": "VSP",
+      "planNames": [
+        "Policy #: 12133312"
+      ],
+      "phone": "800-877-7195",
+      "website": "www.vsp.com",
+      "alternatePhone": null,
+      "email": null,
+      "address": null,
+      "groupOrPolicyNumber": null,
+      "hours": null,
+      "additionalInfo": null,
+      "sourcePage": null
+    },
+    {
+      "category": "Retirement",
+      "provider": "T. Rowe Price",
+      "planNames": [
+        "Policy #: 106041"
+      ],
+      "phone": "800-922-9945",
+      "website": "rps.troweprice.com",
+      "alternatePhone": null,
+      "email": null,
+      "address": null,
+      "groupOrPolicyNumber": null,
+      "hours": null,
+      "additionalInfo": null,
+      "sourcePage": null
+    },
+    {
+      "category": "Supplemental Health Benefits",
+      "provider": "UNUM",
+      "planNames": [
+        "Accident Coverage, Critical Illness Coverage, Hospital Indemnity \nPlan Policy #: R0142349"
+      ],
+      "phone": "Enrolled: 800-635-5597",
+      "alternatePhone": null,
+      "website": null,
+      "email": null,
+      "address": null,
+      "groupOrPolicyNumber": null,
+      "hours": null,
+      "additionalInfo": null,
+      "sourcePage": null
+    },
+    {
+      "category": "Health Savings Account",
+      "provider": "HSA Bank",
+      "phone": "855-731-5220",
+      "website": "www.hsabank.com",
+      "email": "askus@hsabank.com",
+      "planNames": null,
+      "alternatePhone": null,
+      "address": null,
+      "groupOrPolicyNumber": null,
+      "hours": null,
+      "additionalInfo": null,
+      "sourcePage": null
+    },
+    {
+      "category": "Flexible Spending Accounts",
+      "provider": "Navia Benefit Solutions",
+      "phone": "800-669-3539",
+      "website": "www.naviabenefits.com",
+      "additionalInfo": "Employer Code: L3N",
+      "planNames": null,
+      "alternatePhone": null,
+      "email": null,
+      "address": null,
+      "groupOrPolicyNumber": null,
+      "hours": null,
+      "sourcePage": null
+    },
+    {
+      "category": "Life and AD&D",
+      "provider": "Reliance Matrix",
+      "planNames": [
+        "Basic Life / AD&D Policy #: 1500002186",
+        "Voluntary Life Policy #: 1500002185",
+        "Voluntary AD&D / VAR Policy #: 1610001084"
+      ],
+      "phone": "800-351-7500",
+      "alternatePhone": null,
+      "website": "reliancematrix.com/individuals",
+      "additionalInfo": null,
+      "email": null,
+      "address": null,
+      "groupOrPolicyNumber": null,
+      "hours": null,
+      "sourcePage": null
+    },
+    {
+      "category": "Disability/Leave of Absence",
+      "provider": "Reliance Matrix",
+      "planNames": [
+        "LTD Policy #: 130000614",
+        "STD Policy #: 1370000303"
+      ],
+      "phone": "877-202-0055",
+      "alternatePhone": null,
+      "website": "www.matrixabsence.com/login/",
+      "additionalInfo": null,
+      "email": null,
+      "address": null,
+      "groupOrPolicyNumber": null,
+      "hours": null,
+      "sourcePage": null
+    },
+    {
+      "category": "Employee Assistance Program",
+      "provider": "AllOne Health",
+      "phone": "855-775-4357",
+      "website": "http://allonehealth.com/reliance-matrix",
+      "additionalInfo": "Company Code: RSLI859",
+      "planNames": null,
+      "alternatePhone": null,
+      "email": null,
+      "address": null,
+      "groupOrPolicyNumber": null,
+      "hours": null,
+      "sourcePage": null
+    },
+    {
+      "category": "Identity Theft",
+      "provider": "LifeLock",
+      "planNames": [
+        "Policy #: E0005739"
+      ],
+      "phone": "To Enroll: 866-917-2555",
+      "alternatePhone": "Enrolled: 800-607-9174",
+      "website": "www.lifelock.com",
+      "email": null,
+      "address": null,
+      "groupOrPolicyNumber": null,
+      "hours": null,
+      "additionalInfo": null,
+      "sourcePage": null
+    },
+    {
+      "category": "HR / Benefits Team",
+      "provider": "Lhoist North America Benefits Team",
+      "phone": "800-286-0134",
+      "email": "lna.benefits@lhoist.com",
+      "address": "5600 Clearfork Main Street, Suite 300, Fort Worth, TX 76109",
+      "planNames": null,
+      "alternatePhone": null,
+      "website": null,
+      "groupOrPolicyNumber": null,
+      "hours": null,
+      "additionalInfo": null,
+      "sourcePage": null
+    },
+    {
+      "category": "Health Program",
+      "provider": "Livongo by Teladoc Health",
+      "phone": "800-945-4355",
+      "website": null,
+      "additionalInfo": "Diabetes Management: join.livongo.com/BCBSTX/hi\nHypertension Management: ready.livongo.com/TXHTN",
+      "planNames": null,
+      "alternatePhone": null,
+      "email": null,
+      "address": null,
+      "groupOrPolicyNumber": null,
+      "hours": null,
+      "sourcePage": null
+    },
+    {
+      "category": "Wellness",
+      "provider": "Wondr Health",
+      "website": "wondrhealth.com/Lhoist",
+      "additionalInfo": "",
+      "planNames": null,
+      "phone": null,
+      "alternatePhone": null,
+      "email": null,
+      "address": null,
+      "groupOrPolicyNumber": null,
+      "hours": null,
+      "sourcePage": null
+    },
+    {
+      "category": "Maternity / Family Support",
+      "provider": "Maven",
+      "website": "http://mavenclinic.com/join/benefit",
+      "planNames": null,
+      "phone": null,
+      "alternatePhone": null,
+      "email": null,
+      "address": null,
+      "groupOrPolicyNumber": null,
+      "hours": null,
+      "additionalInfo": null,
+      "sourcePage": null
+    },
+    {
+      "category": "Pharmacy Assistance",
+      "provider": "FlexAccess",
+      "phone": "888-302-3618",
+      "email": "member.services@flexaccessrx.com",
+      "additionalInfo": "Please call Monday–Friday, 7:00am–7:00pm Central Time, to be led through the enrollment process.",
+      "planNames": null,
+      "alternatePhone": null,
+      "website": null,
+      "address": null,
+      "groupOrPolicyNumber": null,
+      "hours": null,
+      "sourcePage": null
+    },
+    {
+      "category": "Pharmacy",
+      "provider": "BCBSTX",
+      "planNames": [
+        "Prescription Drug Program"
+      ],
+      "website": "www.bcbstx.com",
+      "additionalInfo": "Information on benefits coverage and a list of network pharmacies is available online or by calling the Health Advocate number on your ID card.",
+      "sourcePage": 18,
+      "phone": null,
+      "alternatePhone": null,
+      "email": null,
+      "address": null,
+      "groupOrPolicyNumber": null,
+      "hours": null
+    },
+    {
+      "category": "Pharmacy",
+      "provider": "Health Advocate",
+      "additionalInfo": "Call the Health Advocate number on your ID card for pharmacy benefit questions.",
+      "sourcePage": 18,
+      "planNames": null,
+      "phone": null,
+      "alternatePhone": null,
+      "website": null,
+      "email": null,
+      "address": null,
+      "groupOrPolicyNumber": null,
+      "hours": null
+    },
+    {
+      "category": "Dental",
+      "provider": "Delta Dental",
+      "website": "www.deltadentalins.com",
+      "additionalInfo": "",
+      "sourcePage": 24,
+      "planNames": null,
+      "phone": null,
+      "alternatePhone": null,
+      "email": null,
+      "address": null,
+      "groupOrPolicyNumber": null,
+      "hours": null
+    },
+    {
+      "category": "Vision",
+      "provider": "VSP",
+      "sourcePage": 25,
+      "planNames": null,
+      "phone": null,
+      "alternatePhone": null,
+      "website": null,
+      "email": null,
+      "address": null,
+      "groupOrPolicyNumber": null,
+      "hours": null,
+      "additionalInfo": null
+    },
+    {
+      "category": "Survivor Benefits",
+      "provider": "Reliance Matrix",
+      "planNames": [
+        "Basic Life and Accidental Death & Dismemberment Insurance"
+      ],
+      "additionalInfo": "Reliance Matrix Insurance is managing Basic Life and AD&D insurance benefit claims.",
+      "sourcePage": 27,
+      "phone": null,
+      "alternatePhone": null,
+      "website": null,
+      "email": null,
+      "address": null,
+      "groupOrPolicyNumber": null,
+      "hours": null
+    },
+    {
+      "category": "HSA",
+      "provider": "HSA Bank",
+      "website": "www.hsabank.com",
+      "additionalInfo": "",
+      "sourcePage": 22,
+      "planNames": null,
+      "phone": null,
+      "alternatePhone": null,
+      "email": null,
+      "address": null,
+      "groupOrPolicyNumber": null,
+      "hours": null
+    },
+    {
+      "category": "Flexible Spending Accounts",
+      "provider": "Navia Benefit Solutions",
+      "additionalInfo": "Contact Navia Benefit Solutions with reimbursement questions.",
+      "sourcePage": 23,
+      "planNames": null,
+      "phone": null,
+      "alternatePhone": null,
+      "website": null,
+      "email": null,
+      "address": null,
+      "groupOrPolicyNumber": null,
+      "hours": null
+    },
+    {
+      "category": "HR",
+      "provider": "LNA Benefits Team",
+      "additionalInfo": "For more enrollment information.",
+      "sourcePage": 22,
+      "planNames": null,
+      "phone": null,
+      "alternatePhone": null,
+      "website": null,
+      "email": null,
+      "address": null,
+      "groupOrPolicyNumber": null,
+      "hours": null
+    },
+    {
+      "category": "Supplemental Health",
+      "provider": "Unum",
+      "planNames": null,
+      "phone": "\n",
+      "additionalInfo": "",
+      "sourcePage": 30,
+      "alternatePhone": null,
+      "website": null,
+      "email": null,
+      "address": null,
+      "groupOrPolicyNumber": null,
+      "hours": null
+    },
+    {
+      "category": "Supplemental Health",
+      "provider": "Unum",
+      "planNames": null,
+      "sourcePage": 33,
+      "phone": null,
+      "alternatePhone": null,
+      "website": null,
+      "email": null,
+      "address": null,
+      "groupOrPolicyNumber": null,
+      "hours": null,
+      "additionalInfo": null
+    },
+    {
+      "category": "Retirement",
+      "provider": "T. Rowe Price",
+      "planNames": null,
+      "phone": "800-922-9945",
+      "website": "\n",
+      "sourcePage": 35,
+      "alternatePhone": null,
+      "email": null,
+      "address": null,
+      "groupOrPolicyNumber": null,
+      "hours": null,
+      "additionalInfo": null
+    },
+    {
+      "category": "Financial Wellness",
+      "provider": "Creative Planning",
+      "planNames": [
+        "Financial Wellness Consultation"
+      ],
+      "phone": "512-537-4997",
+      "website": "CREATIVEPLANNING.COM",
+      "email": "claudia.nybo@creativeplanning.com",
+      "additionalInfo": "Financial Wellness Consultant: Claudia Nybo",
+      "sourcePage": 36,
+      "alternatePhone": null,
+      "address": null,
+      "groupOrPolicyNumber": null,
+      "hours": null
+    },
+    {
+      "category": "EAP",
+      "provider": "AllOne Health",
+      "planNames": null,
+      "phone": "855-775-4357",
+      "website": "http://allonehealth.com/reliance-matrix",
+      "additionalInfo": "Company Code: RSLI859",
+      "sourcePage": 36,
+      "alternatePhone": null,
+      "email": null,
+      "address": null,
+      "groupOrPolicyNumber": null,
+      "hours": null
+    },
+    {
+      "category": "Identity Theft Protection",
+      "provider": "LifeLock",
+      "planNames": null,
+      "website": "\n",
+      "additionalInfo": "",
+      "sourcePage": 37,
+      "phone": null,
+      "alternatePhone": null,
+      "email": null,
+      "address": null,
+      "groupOrPolicyNumber": null,
+      "hours": null
+    },
+    {
+      "category": "Tuition Assistance",
+      "provider": "Bellevue University",
+      "planNames": [
+        "Bellevue University"
+      ],
+      "additionalInfo": "Partnered with Lhoist North America for the tuition assistance program.",
+      "sourcePage": 38,
+      "phone": null,
+      "alternatePhone": null,
+      "website": null,
+      "email": null,
+      "address": null,
+      "groupOrPolicyNumber": null,
+      "hours": null
+    },
+    {
+      "category": "HR",
+      "provider": "LNA Benefits Team",
+      "phone": "800-286-0134",
+      "address": "5600 Clearfork Main Street, Suite 300\nFort Worth, TX 76109",
+      "sourcePage": 39,
+      "planNames": null,
+      "alternatePhone": null,
+      "website": null,
+      "email": null,
+      "groupOrPolicyNumber": null,
+      "hours": null,
+      "additionalInfo": null
+    },
+    {
+      "category": "Medical",
+      "provider": "BCBS of Texas",
+      "planNames": null,
+      "additionalInfo": "Name of Issuer: BCBS of Texas; Plan Marketing Name: PPO and HDHP; Plan Year: 2027",
+      "sourcePage": 40,
+      "phone": null,
+      "alternatePhone": null,
+      "website": null,
+      "email": null,
+      "address": null,
+      "groupOrPolicyNumber": null,
+      "hours": null
+    }
+  ]
+}
